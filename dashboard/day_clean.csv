@@ -1,0 +1,732 @@
+date,season,year,month,days,workingday,weather,temperature,atemp,humidity,windspeed,casual,registered,count,kelembapan
+2011-01-01,Spring,2011,January,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.1,18.2,80.6,10.7,331,654,985,Too Dry
+2011-01-02,Spring,2011,January,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.9,17.7,69.6,16.7,131,670,801,Too Dry
+2011-01-03,Spring,2011,January,Tuesday,Working Day,Clear / Partly cloudy,8.1,9.5,43.7,16.6,120,1229,1349,Too Humid
+2011-01-04,Spring,2011,January,Wednesday,Working Day,Clear / Partly cloudy,8.2,10.6,59.0,10.7,108,1454,1562,Normal
+2011-01-05,Spring,2011,January,Thursday,Working Day,Clear / Partly cloudy,9.3,11.5,43.7,12.5,82,1518,1600,Too Humid
+2011-01-06,Spring,2011,January,Friday,Working Day,Clear / Partly cloudy,8.4,11.7,51.8,6.0,88,1518,1606,Normal
+2011-01-07,Spring,2011,January,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.1,10.4,49.9,11.3,148,1362,1510,Normal
+2011-01-08,Spring,2011,January,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",6.8,8.1,53.6,17.9,68,891,959,Normal
+2011-01-09,Spring,2011,January,Monday,Weekend / Holiday,Clear / Partly cloudy,5.7,5.8,43.4,24.3,54,768,822,Too Humid
+2011-01-10,Spring,2011,January,Tuesday,Working Day,Clear / Partly cloudy,6.2,7.5,48.3,15.0,41,1280,1321,Normal
+2011-01-11,Spring,2011,January,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",6.9,9.6,68.6,8.2,43,1220,1263,Too Dry
+2011-01-12,Spring,2011,January,Thursday,Working Day,Clear / Partly cloudy,7.1,8.0,60.0,20.4,25,1137,1162,Normal
+2011-01-13,Spring,2011,January,Friday,Working Day,Clear / Partly cloudy,6.8,7.5,47.0,20.2,38,1368,1406,Normal
+2011-01-14,Spring,2011,January,Saturday,Working Day,Clear / Partly cloudy,6.6,9.4,53.8,8.5,54,1367,1421,Normal
+2011-01-15,Spring,2011,January,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.6,12.4,49.9,10.6,222,1026,1248,Normal
+2011-01-16,Spring,2011,January,Monday,Weekend / Holiday,Clear / Partly cloudy,9.5,11.7,48.4,12.6,251,953,1204,Normal
+2011-01-17,Spring,2011,January,Tuesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",7.2,8.8,53.8,13.0,117,883,1000,Normal
+2011-01-18,Spring,2011,January,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.9,11.6,86.2,9.8,9,674,683,Too Dry
+2011-01-19,Spring,2011,January,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.0,14.9,74.2,14.0,78,1572,1650,Too Dry
+2011-01-20,Spring,2011,January,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.7,12.8,53.8,13.1,83,1844,1927,Normal
+2011-01-21,Spring,2011,January,Saturday,Working Day,Clear / Partly cloudy,7.3,7.9,45.7,23.7,75,1468,1543,Normal
+2011-01-22,Spring,2011,January,Sunday,Weekend / Holiday,Clear / Partly cloudy,2.4,4.0,40.0,11.5,93,888,981,Too Humid
+2011-01-23,Spring,2011,January,Monday,Weekend / Holiday,Clear / Partly cloudy,4.0,4.9,43.7,16.5,150,836,986,Too Humid
+2011-01-24,Spring,2011,January,Tuesday,Working Day,Clear / Partly cloudy,4.0,5.9,49.2,10.6,86,1330,1416,Normal
+2011-01-25,Spring,2011,January,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.2,11.7,61.7,8.7,186,1799,1985,Normal
+2011-01-26,Spring,2011,January,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",8.9,10.2,86.2,19.7,34,472,506,Too Dry
+2011-01-27,Spring,2011,January,Friday,Working Day,Clear / Partly cloudy,8.0,11.0,68.8,7.6,15,416,431,Too Dry
+2011-01-28,Spring,2011,January,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.3,11.2,79.3,8.3,38,1129,1167,Too Dry
+2011-01-29,Spring,2011,January,Sunday,Weekend / Holiday,Clear / Partly cloudy,8.1,10.6,65.2,9.7,123,975,1098,Too Dry
+2011-01-30,Spring,2011,January,Monday,Weekend / Holiday,Clear / Partly cloudy,8.9,12.5,72.2,5.0,140,956,1096,Too Dry
+2011-01-31,Spring,2011,January,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",7.4,9.3,60.4,12.5,42,1459,1501,Normal
+2011-02-01,Spring,2011,February,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",7.9,11.7,83.0,3.6,47,1313,1360,Too Dry
+2011-02-02,Spring,2011,February,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.7,12.7,77.5,17.7,72,1454,1526,Too Dry
+2011-02-03,Spring,2011,February,Friday,Working Day,Clear / Partly cloudy,7.7,8.9,43.8,18.6,61,1489,1550,Too Humid
+2011-02-04,Spring,2011,February,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.7,11.4,58.5,8.6,88,1620,1708,Normal
+2011-02-05,Spring,2011,February,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.6,12.2,92.9,10.8,100,905,1005,Too Dry
+2011-02-06,Spring,2011,February,Monday,Weekend / Holiday,Clear / Partly cloudy,11.7,14.6,56.8,9.5,354,1269,1623,Normal
+2011-02-07,Spring,2011,February,Tuesday,Working Day,Clear / Partly cloudy,11.1,15.2,73.8,3.0,120,1592,1712,Too Dry
+2011-02-08,Spring,2011,February,Wednesday,Working Day,Clear / Partly cloudy,9.1,9.9,53.8,24.3,64,1466,1530,Normal
+2011-02-09,Spring,2011,February,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",5.5,7.2,49.5,12.7,53,1552,1605,Normal
+2011-02-10,Spring,2011,February,Friday,Working Day,Clear / Partly cloudy,5.9,7.5,43.7,14.9,47,1491,1538,Too Humid
+2011-02-11,Spring,2011,February,Saturday,Working Day,Clear / Partly cloudy,7.8,10.7,50.6,7.3,149,1597,1746,Normal
+2011-02-12,Spring,2011,February,Sunday,Weekend / Holiday,Clear / Partly cloudy,9.1,11.6,54.4,13.6,288,1184,1472,Normal
+2011-02-13,Spring,2011,February,Monday,Weekend / Holiday,Clear / Partly cloudy,13.0,16.2,45.7,17.5,397,1192,1589,Normal
+2011-02-14,Spring,2011,February,Tuesday,Working Day,Clear / Partly cloudy,17.0,19.9,37.6,28.0,208,1705,1913,Too Humid
+2011-02-15,Spring,2011,February,Wednesday,Working Day,Clear / Partly cloudy,10.9,12.7,31.4,19.5,140,1675,1815,Too Humid
+2011-02-16,Spring,2011,February,Thursday,Working Day,Clear / Partly cloudy,13.0,15.8,42.3,16.9,218,1897,2115,Too Humid
+2011-02-17,Spring,2011,February,Friday,Working Day,Clear / Partly cloudy,17.9,21.4,50.5,15.4,259,2216,2475,Normal
+2011-02-18,Spring,2011,February,Saturday,Working Day,Clear / Partly cloudy,21.4,25.6,51.7,17.7,579,2348,2927,Normal
+2011-02-19,Spring,2011,February,Sunday,Weekend / Holiday,Clear / Partly cloudy,16.4,19.6,18.8,34.0,532,1103,1635,Too Humid
+2011-02-20,Spring,2011,February,Monday,Weekend / Holiday,Clear / Partly cloudy,11.7,13.9,40.8,15.0,639,1173,1812,Too Humid
+2011-02-21,Spring,2011,February,Tuesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.4,14.2,60.5,20.6,195,912,1107,Normal
+2011-02-22,Spring,2011,February,Wednesday,Working Day,Clear / Partly cloudy,7.5,9.3,57.8,13.1,74,1376,1450,Normal
+2011-02-23,Spring,2011,February,Thursday,Working Day,Clear / Partly cloudy,9.1,12.3,42.3,6.3,139,1778,1917,Too Humid
+2011-02-24,Spring,2011,February,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.1,14.5,69.7,16.8,100,1707,1807,Too Dry
+2011-02-25,Spring,2011,February,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.9,17.5,71.2,23.2,120,1341,1461,Too Dry
+2011-02-26,Spring,2011,February,Sunday,Weekend / Holiday,Clear / Partly cloudy,11.6,14.1,53.8,12.5,424,1545,1969,Normal
+2011-02-27,Spring,2011,February,Monday,Weekend / Holiday,Clear / Partly cloudy,14.1,17.6,68.0,8.4,694,1708,2402,Too Dry
+2011-02-28,Spring,2011,February,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.7,20.0,87.6,19.4,81,1365,1446,Too Dry
+2011-03-01,Spring,2011,March,Wednesday,Working Day,Clear / Partly cloudy,10.9,13.2,53.5,14.5,137,1714,1851,Normal
+2011-03-02,Spring,2011,March,Thursday,Working Day,Clear / Partly cloudy,13.7,16.0,45.0,20.6,231,1903,2134,Too Humid
+2011-03-03,Spring,2011,March,Friday,Working Day,Clear / Partly cloudy,8.1,10.0,31.8,15.1,123,1562,1685,Too Humid
+2011-03-04,Spring,2011,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.7,12.8,61.0,13.6,214,1730,1944,Normal
+2011-03-05,Spring,2011,March,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.8,18.9,78.9,16.9,640,1437,2077,Too Dry
+2011-03-06,Spring,2011,March,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.4,18.3,94.8,23.0,114,491,605,Too Dry
+2011-03-07,Spring,2011,March,Tuesday,Working Day,Clear / Partly cloudy,10.7,11.9,55.1,22.9,244,1628,1872,Normal
+2011-03-08,Spring,2011,March,Wednesday,Working Day,Clear / Partly cloudy,12.0,15.1,42.1,8.1,316,1817,2133,Too Humid
+2011-03-09,Spring,2011,March,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.1,14.3,77.5,14.8,191,1700,1891,Too Dry
+2011-03-10,Spring,2011,March,Friday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",16.0,19.3,0.0,17.5,46,577,623,
+2011-03-11,Spring,2011,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.0,15.2,65.0,15.6,247,1730,1977,Normal
+2011-03-12,Spring,2011,March,Sunday,Weekend / Holiday,Clear / Partly cloudy,13.5,16.3,59.5,14.8,724,1408,2132,Normal
+2011-03-13,Spring,2011,March,Monday,Weekend / Holiday,Clear / Partly cloudy,15.8,19.0,52.7,18.1,982,1435,2417,Normal
+2011-03-14,Spring,2011,March,Tuesday,Working Day,Clear / Partly cloudy,13.3,16.6,49.7,9.2,359,1687,2046,Normal
+2011-03-15,Spring,2011,March,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.0,15.9,65.6,12.3,289,1767,2056,Too Dry
+2011-03-16,Spring,2011,March,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.0,18.3,77.7,13.6,321,1871,2192,Too Dry
+2011-03-17,Spring,2011,March,Friday,Working Day,Clear / Partly cloudy,17.0,20.5,60.3,14.0,424,2320,2744,Normal
+2011-03-18,Spring,2011,March,Saturday,Working Day,Clear / Partly cloudy,22.1,26.4,52.5,15.5,884,2355,3239,Normal
+2011-03-19,Spring,2011,March,Sunday,Weekend / Holiday,Clear / Partly cloudy,19.4,23.3,37.9,24.7,1424,1693,3117,Too Humid
+2011-03-20,Spring,2011,March,Monday,Weekend / Holiday,Clear / Partly cloudy,13.6,16.3,47.4,13.9,1047,1424,2471,Normal
+2011-03-21,Summer,2011,March,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.6,20.5,73.7,19.3,401,1676,2077,Too Dry
+2011-03-22,Summer,2011,March,Wednesday,Working Day,Clear / Partly cloudy,18.1,22.0,62.5,15.1,460,2243,2703,Normal
+2011-03-23,Summer,2011,March,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.2,16.9,84.0,15.7,203,1918,2121,Too Dry
+2011-03-24,Summer,2011,March,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",11.7,13.5,80.6,16.3,166,1699,1865,Too Dry
+2011-03-25,Summer,2011,March,Saturday,Working Day,Clear / Partly cloudy,10.8,12.8,49.5,15.5,300,1910,2210,Normal
+2011-03-26,Summer,2011,March,Sunday,Weekend / Holiday,Clear / Partly cloudy,10.9,12.9,39.4,14.0,981,1515,2496,Too Humid
+2011-03-27,Summer,2011,March,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.4,12.5,49.4,12.3,472,1221,1693,Normal
+2011-03-28,Summer,2011,March,Tuesday,Working Day,Clear / Partly cloudy,10.8,12.9,30.2,14.2,222,1806,2028,Too Humid
+2011-03-29,Summer,2011,March,Wednesday,Working Day,Clear / Partly cloudy,12.4,14.6,31.4,15.2,317,2108,2425,Too Humid
+2011-03-30,Summer,2011,March,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.3,14.9,64.7,11.6,168,1368,1536,Normal
+2011-03-31,Summer,2011,March,Friday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",11.0,12.9,91.8,14.6,179,1506,1685,Too Dry
+2011-04-01,Summer,2011,April,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.3,14.2,68.6,17.3,307,1920,2227,Too Dry
+2011-04-02,Summer,2011,April,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.9,15.8,65.4,13.2,898,1354,2252,Too Dry
+2011-04-03,Summer,2011,April,Monday,Weekend / Holiday,Clear / Partly cloudy,15.5,18.9,48.0,12.2,1651,1598,3249,Normal
+2011-04-04,Summer,2011,April,Tuesday,Working Day,Clear / Partly cloudy,23.5,27.1,42.6,25.8,734,2381,3115,Too Humid
+2011-04-05,Summer,2011,April,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.0,19.9,64.2,26.0,167,1628,1795,Normal
+2011-04-06,Summer,2011,April,Thursday,Working Day,Clear / Partly cloudy,16.0,19.4,47.1,17.6,413,2395,2808,Normal
+2011-04-07,Summer,2011,April,Friday,Working Day,Clear / Partly cloudy,17.9,21.7,60.3,10.9,571,2570,3141,Normal
+2011-04-08,Summer,2011,April,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.8,16.2,83.6,15.2,172,1299,1471,Too Dry
+2011-04-09,Summer,2011,April,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.0,17.1,87.8,8.9,879,1576,2455,Too Dry
+2011-04-10,Summer,2011,April,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.5,21.3,85.8,9.8,1188,1707,2895,Too Dry
+2011-04-11,Summer,2011,April,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.4,28.3,71.7,21.7,855,2493,3348,Too Dry
+2011-04-12,Summer,2011,April,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",20.6,24.7,73.9,18.4,257,1777,2034,Too Dry
+2011-04-13,Summer,2011,April,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.9,20.9,81.9,16.8,209,1953,2162,Too Dry
+2011-04-14,Summer,2011,April,Friday,Working Day,Clear / Partly cloudy,19.2,23.1,54.0,7.4,529,2738,3267,Normal
+2011-04-15,Summer,2011,April,Saturday,Weekend / Holiday,Clear / Partly cloudy,18.3,22.1,67.1,15.2,642,2484,3126,Too Dry
+2011-04-16,Summer,2011,April,Sunday,Weekend / Holiday,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",17.7,21.3,88.8,22.8,121,674,795,Too Dry
+2011-04-17,Summer,2011,April,Monday,Weekend / Holiday,Clear / Partly cloudy,18.7,22.3,48.0,20.3,1558,2186,3744,Normal
+2011-04-18,Summer,2011,April,Tuesday,Working Day,Clear / Partly cloudy,21.0,25.2,54.2,11.0,669,2760,3429,Normal
+2011-04-19,Summer,2011,April,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",20.7,24.5,66.6,10.6,409,2795,3204,Too Dry
+2011-04-20,Summer,2011,April,Thursday,Working Day,Clear / Partly cloudy,24.4,28.2,61.4,16.2,613,3331,3944,Normal
+2011-04-21,Summer,2011,April,Friday,Working Day,Clear / Partly cloudy,18.8,22.7,40.7,21.8,745,3444,4189,Too Humid
+2011-04-22,Summer,2011,April,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.8,16.1,73.0,14.7,177,1506,1683,Too Dry
+2011-04-23,Summer,2011,April,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",18.9,22.5,88.8,15.5,1462,2574,4036,Too Dry
+2011-04-24,Summer,2011,April,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.8,27.6,81.1,12.9,1710,2481,4191,Too Dry
+2011-04-25,Summer,2011,April,Tuesday,Working Day,Clear / Partly cloudy,24.9,28.7,77.7,12.4,773,3300,4073,Too Dry
+2011-04-26,Summer,2011,April,Wednesday,Working Day,Clear / Partly cloudy,25.9,29.7,72.9,21.9,678,3722,4400,Too Dry
+2011-04-27,Summer,2011,April,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.4,28.8,83.5,20.9,547,3325,3872,Too Dry
+2011-04-28,Summer,2011,April,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.3,28.9,70.1,21.5,569,3489,4058,Too Dry
+2011-04-29,Summer,2011,April,Saturday,Working Day,Clear / Partly cloudy,20.9,24.9,45.7,16.1,878,3717,4595,Normal
+2011-04-30,Summer,2011,April,Sunday,Weekend / Holiday,Clear / Partly cloudy,19.4,23.2,50.3,15.8,1965,3347,5312,Normal
+2011-05-01,Summer,2011,May,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",18.5,22.4,76.2,7.1,1138,2213,3351,Too Dry
+2011-05-02,Summer,2011,May,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.5,26.6,73.0,12.3,847,3554,4401,Too Dry
+2011-05-03,Summer,2011,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.3,29.1,69.7,23.0,603,3848,4451,Too Dry
+2011-05-04,Summer,2011,May,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.0,20.2,73.7,22.0,255,2378,2633,Too Dry
+2011-05-05,Summer,2011,May,Friday,Working Day,Clear / Partly cloudy,18.8,22.1,44.4,19.8,614,3819,4433,Too Humid
+2011-05-06,Summer,2011,May,Saturday,Working Day,Clear / Partly cloudy,19.6,23.7,59.0,15.3,894,3714,4608,Normal
+2011-05-07,Summer,2011,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,21.3,25.6,54.1,10.8,1612,3102,4714,Normal
+2011-05-08,Summer,2011,May,Monday,Weekend / Holiday,Clear / Partly cloudy,21.7,25.9,63.2,5.0,1401,2932,4333,Normal
+2011-05-09,Summer,2011,May,Tuesday,Working Day,Clear / Partly cloudy,21.8,26.3,58.9,11.8,664,3698,4362,Normal
+2011-05-10,Summer,2011,May,Wednesday,Working Day,Clear / Partly cloudy,21.8,26.1,48.9,7.7,694,4109,4803,Normal
+2011-05-11,Summer,2011,May,Thursday,Working Day,Clear / Partly cloudy,22.2,26.4,63.3,8.1,550,3632,4182,Normal
+2011-05-12,Summer,2011,May,Friday,Working Day,Clear / Partly cloudy,21.9,26.2,74.8,12.7,695,4169,4864,Too Dry
+2011-05-13,Summer,2011,May,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.0,24.7,86.3,12.0,692,3413,4105,Too Dry
+2011-05-14,Summer,2011,May,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.4,25.0,92.2,9.0,902,2507,3409,Too Dry
+2011-05-15,Summer,2011,May,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.1,26.8,86.7,10.2,1582,2971,4553,Too Dry
+2011-05-16,Summer,2011,May,Tuesday,Working Day,Clear / Partly cloudy,23.7,27.5,78.8,8.5,773,3185,3958,Too Dry
+2011-05-17,Summer,2011,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.0,26.9,83.8,18.6,678,3445,4123,Too Dry
+2011-05-18,Summer,2011,May,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.6,26.4,87.0,13.5,536,3319,3855,Too Dry
+2011-05-19,Summer,2011,May,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.8,25.5,83.0,7.3,735,3840,4575,Too Dry
+2011-05-20,Summer,2011,May,Saturday,Working Day,Clear / Partly cloudy,22.0,26.5,72.0,8.4,909,4008,4917,Too Dry
+2011-05-21,Summer,2011,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,24.7,28.6,62.7,8.1,2258,3547,5805,Normal
+2011-05-22,Summer,2011,May,Monday,Weekend / Holiday,Clear / Partly cloudy,24.8,28.7,75.0,9.9,1576,3084,4660,Too Dry
+2011-05-23,Summer,2011,May,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.9,29.5,81.0,15.7,836,3438,4274,Too Dry
+2011-05-24,Summer,2011,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.1,30.2,74.1,13.9,659,3833,4492,Too Dry
+2011-05-25,Summer,2011,May,Thursday,Working Day,Clear / Partly cloudy,27.1,30.8,69.6,10.3,740,4238,4978,Too Dry
+2011-05-26,Summer,2011,May,Friday,Working Day,Clear / Partly cloudy,29.0,32.7,67.8,13.4,758,3919,4677,Too Dry
+2011-05-27,Summer,2011,May,Saturday,Working Day,Clear / Partly cloudy,27.9,31.9,65.4,16.1,871,3808,4679,Too Dry
+2011-05-28,Summer,2011,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,26.9,30.6,73.0,15.4,2001,2757,4758,Too Dry
+2011-05-29,Summer,2011,May,Monday,Weekend / Holiday,Clear / Partly cloudy,27.4,30.8,81.9,14.3,2355,2433,4788,Too Dry
+2011-05-30,Summer,2011,May,Tuesday,Weekend / Holiday,Clear / Partly cloudy,30.1,33.6,68.5,8.8,1549,2549,4098,Too Dry
+2011-05-31,Summer,2011,May,Wednesday,Working Day,Clear / Partly cloudy,31.8,36.3,63.7,7.5,673,3309,3982,Normal
+2011-06-01,Summer,2011,June,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",31.3,36.0,67.7,13.9,513,3461,3974,Too Dry
+2011-06-02,Summer,2011,June,Friday,Working Day,Clear / Partly cloudy,29.3,32.2,30.5,19.6,736,4232,4968,Too Humid
+2011-06-03,Summer,2011,June,Saturday,Working Day,Clear / Partly cloudy,25.4,29.4,35.4,17.0,898,4414,5312,Too Humid
+2011-06-04,Summer,2011,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,26.0,29.7,45.6,8.3,1869,3473,5342,Normal
+2011-06-05,Summer,2011,June,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.6,30.8,65.2,9.3,1685,3221,4906,Too Dry
+2011-06-06,Summer,2011,June,Tuesday,Working Day,Clear / Partly cloudy,27.8,31.1,60.0,8.2,673,3875,4548,Normal
+2011-06-07,Summer,2011,June,Wednesday,Working Day,Clear / Partly cloudy,29.0,32.8,59.8,12.6,763,4070,4833,Normal
+2011-06-08,Summer,2011,June,Thursday,Working Day,Clear / Partly cloudy,31.8,36.4,62.2,9.2,676,3725,4401,Normal
+2011-06-09,Summer,2011,June,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",33.1,37.9,56.8,10.0,563,3352,3915,Normal
+2011-06-10,Summer,2011,June,Saturday,Working Day,Clear / Partly cloudy,31.0,35.2,60.5,9.4,815,3771,4586,Normal
+2011-06-11,Summer,2011,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,29.7,33.9,65.5,10.4,1729,3237,4966,Too Dry
+2011-06-12,Summer,2011,June,Monday,Weekend / Holiday,Clear / Partly cloudy,28.4,32.2,74.8,11.0,1467,2993,4460,Too Dry
+2011-06-13,Summer,2011,June,Tuesday,Working Day,Clear / Partly cloudy,26.0,30.1,49.5,20.5,863,4157,5020,Normal
+2011-06-14,Summer,2011,June,Wednesday,Working Day,Clear / Partly cloudy,24.8,29.6,50.7,18.0,727,4164,4891,Normal
+2011-06-15,Summer,2011,June,Thursday,Working Day,Clear / Partly cloudy,25.7,29.4,47.2,11.3,769,4411,5180,Normal
+2011-06-16,Summer,2011,June,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.8,29.8,68.8,13.8,545,3222,3767,Too Dry
+2011-06-17,Summer,2011,June,Saturday,Working Day,Clear / Partly cloudy,26.6,30.0,73.6,9.6,863,3981,4844,Too Dry
+2011-06-18,Summer,2011,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,28.6,32.2,67.0,8.0,1807,3312,5119,Too Dry
+2011-06-19,Summer,2011,June,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.7,32.3,66.7,6.8,1639,3105,4744,Too Dry
+2011-06-20,Summer,2011,June,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.0,29.8,74.6,10.4,699,3311,4010,Too Dry
+2011-06-21,Fall,2011,June,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.9,31.9,77.0,11.5,774,4061,4835,Too Dry
+2011-06-22,Fall,2011,June,Thursday,Working Day,Clear / Partly cloudy,30.1,34.7,70.8,11.5,661,3846,4507,Too Dry
+2011-06-23,Fall,2011,June,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.9,34.7,70.3,16.0,746,4044,4790,Too Dry
+2011-06-24,Fall,2011,June,Saturday,Working Day,Clear / Partly cloudy,29.7,32.8,57.3,14.9,969,4022,4991,Normal
+2011-06-25,Fall,2011,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,28.5,32.2,48.3,14.0,1782,3420,5202,Normal
+2011-06-26,Fall,2011,June,Monday,Weekend / Holiday,Clear / Partly cloudy,27.9,31.9,51.3,6.3,1920,3385,5305,Normal
+2011-06-27,Fall,2011,June,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.0,31.9,65.8,7.2,854,3854,4708,Too Dry
+2011-06-28,Fall,2011,June,Wednesday,Working Day,Clear / Partly cloudy,30.5,34.6,63.4,9.7,732,3916,4648,Normal
+2011-06-29,Fall,2011,June,Thursday,Working Day,Clear / Partly cloudy,29.9,32.7,49.8,17.5,848,4377,5225,Normal
+2011-06-30,Fall,2011,June,Friday,Working Day,Clear / Partly cloudy,28.6,31.9,43.4,12.4,1027,4488,5515,Too Humid
+2011-07-01,Fall,2011,July,Saturday,Working Day,Clear / Partly cloudy,29.6,32.6,39.6,6.9,1246,4116,5362,Too Humid
+2011-07-02,Fall,2011,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,30.3,33.4,44.5,7.7,2204,2915,5119,Too Humid
+2011-07-03,Fall,2011,July,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.4,33.4,68.2,15.3,2282,2367,4649,Too Dry
+2011-07-04,Fall,2011,July,Tuesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.8,33.3,63.8,5.5,3065,2978,6043,Normal
+2011-07-05,Fall,2011,July,Wednesday,Working Day,Clear / Partly cloudy,30.6,34.8,59.0,8.5,1031,3634,4665,Normal
+2011-07-06,Fall,2011,July,Thursday,Working Day,Clear / Partly cloudy,29.5,34.3,74.3,10.0,784,3845,4629,Too Dry
+2011-07-07,Fall,2011,July,Friday,Working Day,Clear / Partly cloudy,30.8,34.3,65.1,10.7,754,3838,4592,Too Dry
+2011-07-08,Fall,2011,July,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.1,33.5,75.8,15.1,692,3348,4040,Too Dry
+2011-07-09,Fall,2011,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,30.1,33.2,60.9,11.3,1988,3348,5336,Normal
+2011-07-10,Fall,2011,July,Monday,Weekend / Holiday,Clear / Partly cloudy,30.6,34.5,57.8,12.3,1743,3138,4881,Normal
+2011-07-11,Fall,2011,July,Tuesday,Working Day,Clear / Partly cloudy,31.3,36.5,63.6,18.9,723,3363,4086,Normal
+2011-07-12,Fall,2011,July,Wednesday,Working Day,Clear / Partly cloudy,32.6,37.0,55.9,13.4,662,3596,4258,Normal
+2011-07-13,Fall,2011,July,Thursday,Working Day,Clear / Partly cloudy,30.6,34.5,63.2,9.8,748,3594,4342,Normal
+2011-07-14,Fall,2011,July,Friday,Working Day,Clear / Partly cloudy,27.9,31.8,47.6,16.1,888,4196,5084,Normal
+2011-07-15,Fall,2011,July,Saturday,Working Day,Clear / Partly cloudy,27.2,31.2,59.1,12.2,1318,4220,5538,Normal
+2011-07-16,Fall,2011,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,28.2,31.9,58.5,14.0,2418,3505,5923,Normal
+2011-07-17,Fall,2011,July,Monday,Weekend / Holiday,Clear / Partly cloudy,29.5,33.5,60.4,16.4,2006,3296,5302,Normal
+2011-07-18,Fall,2011,July,Tuesday,Working Day,Clear / Partly cloudy,30.6,35.2,65.1,14.5,841,3617,4458,Too Dry
+2011-07-19,Fall,2011,July,Wednesday,Working Day,Clear / Partly cloudy,31.8,37.4,65.0,8.8,752,3789,4541,Normal
+2011-07-20,Fall,2011,July,Thursday,Working Day,Clear / Partly cloudy,31.5,37.3,70.7,7.6,644,3688,4332,Too Dry
+2011-07-21,Fall,2011,July,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",33.4,41.3,69.1,14.9,632,3152,3784,Too Dry
+2011-07-22,Fall,2011,July,Saturday,Working Day,Clear / Partly cloudy,34.8,42.0,58.0,8.9,562,2825,3387,Normal
+2011-07-23,Fall,2011,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,34.8,40.2,50.0,8.8,987,2298,3285,Normal
+2011-07-24,Fall,2011,July,Monday,Weekend / Holiday,Clear / Partly cloudy,34.0,39.7,55.1,11.3,1050,2556,3606,Normal
+2011-07-25,Fall,2011,July,Tuesday,Working Day,Clear / Partly cloudy,30.5,36.0,75.7,6.1,568,3272,3840,Too Dry
+2011-07-26,Fall,2011,July,Wednesday,Working Day,Clear / Partly cloudy,31.6,34.8,54.1,13.4,750,3840,4590,Normal
+2011-07-27,Fall,2011,July,Thursday,Working Day,Clear / Partly cloudy,31.8,34.5,40.3,12.3,755,3901,4656,Too Humid
+2011-07-28,Fall,2011,July,Friday,Working Day,Clear / Partly cloudy,31.9,37.0,58.3,12.0,606,3784,4390,Normal
+2011-07-29,Fall,2011,July,Saturday,Working Day,Clear / Partly cloudy,34.4,39.3,54.2,11.7,670,3176,3846,Normal
+2011-07-30,Fall,2011,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,33.0,36.4,46.6,11.3,1559,2916,4475,Normal
+2011-07-31,Fall,2011,July,Monday,Weekend / Holiday,Clear / Partly cloudy,33.0,36.5,48.1,11.0,1524,2778,4302,Normal
+2011-08-01,Fall,2011,August,Tuesday,Working Day,Clear / Partly cloudy,31.6,35.2,55.1,10.5,729,3537,4266,Normal
+2011-08-02,Fall,2011,August,Wednesday,Working Day,Clear / Partly cloudy,32.1,35.4,49.1,13.8,801,4044,4845,Normal
+2011-08-03,Fall,2011,August,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.0,34.0,65.8,9.1,467,3107,3574,Too Dry
+2011-08-04,Fall,2011,August,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.1,33.2,75.8,13.2,799,3777,4576,Too Dry
+2011-08-05,Fall,2011,August,Saturday,Working Day,Clear / Partly cloudy,29.1,32.8,63.1,12.4,1023,3843,4866,Normal
+2011-08-06,Fall,2011,August,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.4,33.8,75.5,15.3,1521,2773,4294,Too Dry
+2011-08-07,Fall,2011,August,Monday,Weekend / Holiday,Clear / Partly cloudy,30.4,35.8,75.3,13.5,1298,2487,3785,Too Dry
+2011-08-08,Fall,2011,August,Tuesday,Working Day,Clear / Partly cloudy,31.4,35.2,59.2,12.9,846,3480,4326,Normal
+2011-08-09,Fall,2011,August,Wednesday,Working Day,Clear / Partly cloudy,31.8,36.2,57.0,10.1,907,3695,4602,Normal
+2011-08-10,Fall,2011,August,Thursday,Working Day,Clear / Partly cloudy,31.4,34.2,42.4,13.4,884,3896,4780,Too Humid
+2011-08-11,Fall,2011,August,Friday,Working Day,Clear / Partly cloudy,29.4,32.6,42.4,11.0,812,3980,4792,Too Humid
+2011-08-12,Fall,2011,August,Saturday,Working Day,Clear / Partly cloudy,29.0,32.7,41.5,8.4,1051,3854,4905,Too Humid
+2011-08-13,Fall,2011,August,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.1,32.3,73.0,14.2,1504,2646,4150,Too Dry
+2011-08-14,Fall,2011,August,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.7,31.2,81.8,14.9,1338,2482,3820,Too Dry
+2011-08-15,Fall,2011,August,Tuesday,Working Day,Clear / Partly cloudy,27.3,30.8,71.2,14.0,775,3563,4338,Too Dry
+2011-08-16,Fall,2011,August,Wednesday,Working Day,Clear / Partly cloudy,28.7,32.3,57.8,15.8,721,4004,4725,Normal
+2011-08-17,Fall,2011,August,Thursday,Working Day,Clear / Partly cloudy,29.7,33.3,57.5,9.6,668,4026,4694,Normal
+2011-08-18,Fall,2011,August,Friday,Working Day,Clear / Partly cloudy,29.2,33.1,65.5,15.6,639,3166,3805,Too Dry
+2011-08-19,Fall,2011,August,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.1,31.7,72.3,9.3,797,3356,4153,Too Dry
+2011-08-20,Fall,2011,August,Sunday,Weekend / Holiday,Clear / Partly cloudy,28.6,32.4,67.4,7.0,1914,3277,5191,Too Dry
+2011-08-21,Fall,2011,August,Monday,Weekend / Holiday,Clear / Partly cloudy,29.1,33.8,77.0,16.7,1249,2624,3873,Too Dry
+2011-08-22,Fall,2011,August,Tuesday,Working Day,Clear / Partly cloudy,28.4,31.9,47.0,18.5,833,3925,4758,Normal
+2011-08-23,Fall,2011,August,Wednesday,Working Day,Clear / Partly cloudy,26.3,30.3,45.5,9.8,1281,4614,5895,Normal
+2011-08-24,Fall,2011,August,Thursday,Working Day,Clear / Partly cloudy,27.6,31.5,60.5,17.0,949,4181,5130,Normal
+2011-08-25,Fall,2011,August,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.1,32.3,77.2,14.1,435,3107,3542,Too Dry
+2011-08-26,Fall,2011,August,Saturday,Working Day,Clear / Partly cloudy,28.7,33.0,76.1,5.6,768,3893,4661,Too Dry
+2011-08-27,Fall,2011,August,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.9,31.8,85.0,25.2,226,889,1115,Too Dry
+2011-08-28,Fall,2011,August,Monday,Weekend / Holiday,Clear / Partly cloudy,29.0,32.4,56.2,20.4,1415,2919,4334,Normal
+2011-08-29,Fall,2011,August,Tuesday,Working Day,Clear / Partly cloudy,26.1,30.4,55.5,10.7,729,3905,4634,Normal
+2011-08-30,Fall,2011,August,Wednesday,Working Day,Clear / Partly cloudy,26.2,29.7,54.8,8.4,775,4429,5204,Normal
+2011-08-31,Fall,2011,August,Thursday,Working Day,Clear / Partly cloudy,26.9,30.6,59.8,5.6,688,4370,5058,Normal
+2011-09-01,Fall,2011,September,Friday,Working Day,Clear / Partly cloudy,26.9,30.7,63.9,9.5,783,4332,5115,Normal
+2011-09-02,Fall,2011,September,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.4,30.2,72.7,9.4,875,3852,4727,Too Dry
+2011-09-03,Fall,2011,September,Sunday,Weekend / Holiday,Clear / Partly cloudy,27.4,31.7,71.7,12.4,1935,2549,4484,Too Dry
+2011-09-04,Fall,2011,September,Monday,Weekend / Holiday,Clear / Partly cloudy,29.1,33.3,74.2,13.8,2521,2419,4940,Too Dry
+2011-09-05,Fall,2011,September,Tuesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.6,31.3,79.0,14.3,1236,2115,3351,Too Dry
+2011-09-06,Fall,2011,September,Wednesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",22.1,25.8,88.7,23.0,204,2506,2710,Too Dry
+2011-09-07,Fall,2011,September,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",24.6,27.2,91.7,6.5,118,1878,1996,Too Dry
+2011-09-08,Fall,2011,September,Friday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",26.0,27.8,94.0,12.9,153,1689,1842,Too Dry
+2011-09-09,Fall,2011,September,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.6,28.9,89.8,8.3,417,3127,3544,Too Dry
+2011-09-10,Fall,2011,September,Sunday,Weekend / Holiday,Clear / Partly cloudy,27.1,30.4,75.4,10.3,1750,3595,5345,Too Dry
+2011-09-11,Fall,2011,September,Monday,Weekend / Holiday,Clear / Partly cloudy,26.8,30.5,71.4,7.7,1633,3413,5046,Too Dry
+2011-09-12,Fall,2011,September,Tuesday,Working Day,Clear / Partly cloudy,26.4,30.1,69.2,6.0,690,4023,4713,Too Dry
+2011-09-13,Fall,2011,September,Wednesday,Working Day,Clear / Partly cloudy,26.7,30.2,71.2,9.5,701,4062,4763,Too Dry
+2011-09-14,Fall,2011,September,Thursday,Working Day,Clear / Partly cloudy,27.6,31.3,69.7,11.2,647,4138,4785,Too Dry
+2011-09-15,Fall,2011,September,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.7,27.7,70.9,18.2,428,3231,3659,Too Dry
+2011-09-16,Fall,2011,September,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.2,23.1,59.0,11.0,742,4018,4760,Normal
+2011-09-17,Fall,2011,September,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",20.2,23.9,71.8,12.7,1434,3077,4511,Too Dry
+2011-09-18,Fall,2011,September,Monday,Weekend / Holiday,Clear / Partly cloudy,20.8,24.5,69.5,12.0,1353,2921,4274,Too Dry
+2011-09-19,Fall,2011,September,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.5,26.5,69.0,10.2,691,3848,4539,Too Dry
+2011-09-20,Fall,2011,September,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.0,26.6,88.1,9.0,438,3203,3641,Too Dry
+2011-09-21,Fall,2011,September,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.4,27.5,90.0,6.5,539,3813,4352,Too Dry
+2011-09-22,Fall,2011,September,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.8,27.7,90.2,8.6,555,4240,4795,Too Dry
+2011-09-23,Winter,2011,September,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.0,26.1,97.2,5.3,258,2137,2395,Too Dry
+2011-09-24,Winter,2011,September,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.9,28.2,86.2,5.3,1776,3647,5423,Too Dry
+2011-09-25,Winter,2011,September,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.0,28.6,84.5,3.4,1544,3466,5010,Too Dry
+2011-09-26,Winter,2011,September,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.6,29.5,84.8,7.4,684,3946,4630,Too Dry
+2011-09-27,Winter,2011,September,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.1,28.7,88.5,7.9,477,3643,4120,Too Dry
+2011-09-28,Winter,2011,September,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.0,28.8,84.9,10.0,480,3427,3907,Too Dry
+2011-09-29,Winter,2011,September,Friday,Working Day,Clear / Partly cloudy,25.3,28.7,69.9,11.6,653,4186,4839,Too Dry
+2011-09-30,Winter,2011,September,Saturday,Working Day,Clear / Partly cloudy,23.1,27.2,64.8,13.8,830,4372,5202,Normal
+2011-10-01,Winter,2011,October,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.8,20.6,75.4,19.6,480,1949,2429,Too Dry
+2011-10-02,Winter,2011,October,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.6,17.3,79.2,14.9,616,2302,2918,Too Dry
+2011-10-03,Winter,2011,October,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.8,19.6,76.1,5.6,330,3240,3570,Too Dry
+2011-10-04,Winter,2011,October,Wednesday,Working Day,Clear / Partly cloudy,19.9,23.6,71.0,13.8,486,3970,4456,Too Dry
+2011-10-05,Winter,2011,October,Thursday,Working Day,Clear / Partly cloudy,22.1,26.4,64.8,11.9,559,4267,4826,Normal
+2011-10-06,Winter,2011,October,Friday,Working Day,Clear / Partly cloudy,20.3,24.0,62.1,9.0,639,4126,4765,Normal
+2011-10-07,Winter,2011,October,Saturday,Working Day,Clear / Partly cloudy,20.9,25.2,68.4,1.5,949,4036,4985,Too Dry
+2011-10-08,Winter,2011,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,21.4,25.7,70.1,3.0,2235,3174,5409,Too Dry
+2011-10-09,Winter,2011,October,Monday,Weekend / Holiday,Clear / Partly cloudy,22.2,26.2,72.8,4.3,2397,3114,5511,Too Dry
+2011-10-10,Winter,2011,October,Tuesday,Weekend / Holiday,Clear / Partly cloudy,23.4,27.1,73.4,2.8,1514,3603,5117,Too Dry
+2011-10-11,Winter,2011,October,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.2,27.3,80.9,9.6,667,3896,4563,Too Dry
+2011-10-12,Winter,2011,October,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",22.3,25.9,90.6,16.6,217,2199,2416,Too Dry
+2011-10-13,Winter,2011,October,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.2,27.6,89.7,9.5,290,2623,2913,Too Dry
+2011-10-14,Winter,2011,October,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.6,26.5,71.6,15.0,529,3115,3644,Too Dry
+2011-10-15,Winter,2011,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,20.8,24.9,48.3,17.3,1899,3318,5217,Normal
+2011-10-16,Winter,2011,October,Monday,Weekend / Holiday,Clear / Partly cloudy,21.0,25.2,48.7,18.9,1748,3293,5041,Normal
+2011-10-17,Winter,2011,October,Tuesday,Working Day,Clear / Partly cloudy,21.9,25.5,58.0,11.8,713,3857,4570,Normal
+2011-10-18,Winter,2011,October,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.8,26.1,70.2,7.4,637,4111,4748,Too Dry
+2011-10-19,Winter,2011,October,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",22.2,25.7,89.5,16.3,254,2170,2424,Too Dry
+2011-10-20,Winter,2011,October,Friday,Working Day,Clear / Partly cloudy,19.5,23.3,63.6,28.3,471,3724,4195,Normal
+2011-10-21,Winter,2011,October,Saturday,Working Day,Clear / Partly cloudy,17.5,21.2,57.4,14.8,676,3628,4304,Normal
+2011-10-22,Winter,2011,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,17.3,21.3,62.9,6.2,1499,2809,4308,Normal
+2011-10-23,Winter,2011,October,Monday,Weekend / Holiday,Clear / Partly cloudy,17.3,21.1,74.1,6.7,1619,2762,4381,Too Dry
+2011-10-24,Winter,2011,October,Tuesday,Working Day,Clear / Partly cloudy,19.0,22.9,77.2,8.0,699,3488,4187,Too Dry
+2011-10-25,Winter,2011,October,Wednesday,Working Day,Clear / Partly cloudy,19.3,23.2,62.3,11.2,695,3992,4687,Normal
+2011-10-26,Winter,2011,October,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.9,23.6,72.0,10.0,404,3490,3894,Too Dry
+2011-10-27,Winter,2011,October,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.3,22.9,81.3,13.3,240,2419,2659,Too Dry
+2011-10-28,Winter,2011,October,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.6,15.9,58.6,15.4,456,3291,3747,Normal
+2011-10-29,Winter,2011,October,Sunday,Weekend / Holiday,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",10.4,11.4,88.2,23.5,57,570,627,Too Dry
+2011-10-30,Winter,2011,October,Monday,Weekend / Holiday,Clear / Partly cloudy,13.1,16.1,62.4,11.8,885,2446,3331,Normal
+2011-10-31,Winter,2011,October,Tuesday,Working Day,Clear / Partly cloudy,13.9,17.8,70.3,7.1,362,3307,3669,Too Dry
+2011-11-01,Winter,2011,November,Wednesday,Working Day,Clear / Partly cloudy,16.4,19.9,68.4,9.1,410,3658,4068,Too Dry
+2011-11-02,Winter,2011,November,Thursday,Working Day,Clear / Partly cloudy,15.5,19.5,71.9,5.5,370,3816,4186,Too Dry
+2011-11-03,Winter,2011,November,Friday,Working Day,Clear / Partly cloudy,16.7,20.3,70.2,9.2,318,3656,3974,Too Dry
+2011-11-04,Winter,2011,November,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.5,20.2,62.3,18.2,470,3576,4046,Normal
+2011-11-05,Winter,2011,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,13.4,16.2,51.9,12.7,1156,2770,3926,Normal
+2011-11-06,Winter,2011,November,Monday,Weekend / Holiday,Clear / Partly cloudy,14.3,18.1,73.5,6.2,952,2697,3649,Too Dry
+2011-11-07,Winter,2011,November,Tuesday,Working Day,Clear / Partly cloudy,16.2,20.0,75.9,3.8,373,3662,4035,Too Dry
+2011-11-08,Winter,2011,November,Wednesday,Working Day,Clear / Partly cloudy,16.7,20.6,72.2,4.6,376,3829,4205,Too Dry
+2011-11-09,Winter,2011,November,Thursday,Working Day,Clear / Partly cloudy,16.4,20.5,75.8,4.2,305,3804,4109,Too Dry
+2011-11-10,Winter,2011,November,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.6,18.7,81.3,12.7,190,2743,2933,Too Dry
+2011-11-11,Winter,2011,November,Saturday,Weekend / Holiday,Clear / Partly cloudy,13.3,15.3,44.6,21.1,440,2928,3368,Too Humid
+2011-11-12,Winter,2011,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,14.6,17.9,55.3,14.2,1275,2792,4067,Normal
+2011-11-13,Winter,2011,November,Monday,Weekend / Holiday,Clear / Partly cloudy,18.1,21.5,45.8,18.9,1004,2713,3717,Normal
+2011-11-14,Winter,2011,November,Tuesday,Working Day,Clear / Partly cloudy,21.7,26.2,58.7,20.5,595,3891,4486,Normal
+2011-11-15,Winter,2011,November,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.7,25.4,68.9,13.4,449,3746,4195,Too Dry
+2011-11-16,Winter,2011,November,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",18.7,22.6,93.0,9.2,145,1672,1817,Too Dry
+2011-11-17,Winter,2011,November,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.0,16.2,57.6,20.5,139,2914,3053,Normal
+2011-11-18,Winter,2011,November,Saturday,Working Day,Clear / Partly cloudy,11.2,13.6,41.0,11.3,245,3147,3392,Too Humid
+2011-11-19,Winter,2011,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,13.5,16.2,50.2,15.0,943,2720,3663,Normal
+2011-11-20,Winter,2011,November,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.0,22.9,68.5,12.5,787,2733,3520,Too Dry
+2011-11-21,Winter,2011,November,Tuesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",18.3,22.3,91.0,9.2,220,2545,2765,Too Dry
+2011-11-22,Winter,2011,November,Wednesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",17.1,21.1,96.2,8.0,69,1538,1607,Too Dry
+2011-11-23,Winter,2011,November,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",18.1,21.5,75.8,22.5,112,2454,2566,Too Dry
+2011-11-24,Winter,2011,November,Friday,Weekend / Holiday,Clear / Partly cloudy,15.3,18.6,54.9,11.2,560,935,1495,Normal
+2011-11-25,Winter,2011,November,Saturday,Working Day,Clear / Partly cloudy,15.4,19.0,64.4,6.6,1095,1697,2792,Normal
+2011-11-26,Winter,2011,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,15.4,19.3,68.2,4.6,1249,1819,3068,Too Dry
+2011-11-27,Winter,2011,November,Monday,Weekend / Holiday,Clear / Partly cloudy,18.8,22.8,69.8,14.0,810,2261,3071,Too Dry
+2011-11-28,Winter,2011,November,Tuesday,Working Day,Clear / Partly cloudy,20.6,24.5,74.3,9.5,253,3614,3867,Too Dry
+2011-11-29,Winter,2011,November,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",18.8,22.6,83.1,17.3,96,2818,2914,Too Dry
+2011-11-30,Winter,2011,November,Thursday,Working Day,Clear / Partly cloudy,13.3,15.6,61.3,18.2,188,3425,3613,Normal
+2011-12-01,Winter,2011,December,Friday,Working Day,Clear / Partly cloudy,12.8,15.3,52.5,14.8,182,3545,3727,Normal
+2011-12-02,Winter,2011,December,Saturday,Working Day,Clear / Partly cloudy,12.9,16.6,62.6,6.8,268,3672,3940,Normal
+2011-12-03,Winter,2011,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,12.3,15.5,61.3,6.4,706,2908,3614,Normal
+2011-12-04,Winter,2011,December,Monday,Weekend / Holiday,Clear / Partly cloudy,13.6,17.5,77.6,5.6,634,2851,3485,Too Dry
+2011-12-05,Winter,2011,December,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.8,19.7,82.7,4.2,233,3578,3811,Too Dry
+2011-12-06,Winter,2011,December,Wednesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",19.0,22.8,95.0,15.6,126,2468,2594,Too Dry
+2011-12-07,Winter,2011,December,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",16.8,20.0,97.0,17.8,50,655,705,Too Dry
+2011-12-08,Winter,2011,December,Friday,Working Day,Clear / Partly cloudy,10.9,12.8,58.0,16.1,150,3172,3322,Normal
+2011-12-09,Winter,2011,December,Saturday,Working Day,Clear / Partly cloudy,11.9,15.9,69.6,5.5,261,3359,3620,Too Dry
+2011-12-10,Winter,2011,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,11.3,13.3,50.7,15.6,502,2688,3190,Normal
+2011-12-11,Winter,2011,December,Monday,Weekend / Holiday,Clear / Partly cloudy,9.1,12.7,49.0,4.5,377,2366,2743,Normal
+2011-12-12,Winter,2011,December,Tuesday,Working Day,Clear / Partly cloudy,9.8,13.5,67.1,4.3,143,3167,3310,Too Dry
+2011-12-13,Winter,2011,December,Wednesday,Working Day,Clear / Partly cloudy,11.6,15.1,59.0,9.4,155,3368,3523,Normal
+2011-12-14,Winter,2011,December,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.0,16.9,66.4,4.1,178,3562,3740,Too Dry
+2011-12-15,Winter,2011,December,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.3,20.6,63.4,18.0,181,3528,3709,Normal
+2011-12-16,Winter,2011,December,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.4,18.0,50.0,17.5,178,3399,3577,Normal
+2011-12-17,Winter,2011,December,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.6,12.5,56.1,16.3,275,2464,2739,Normal
+2011-12-18,Winter,2011,December,Monday,Weekend / Holiday,Clear / Partly cloudy,9.8,12.3,58.6,11.4,220,2211,2431,Normal
+2011-12-19,Winter,2011,December,Tuesday,Working Day,Clear / Partly cloudy,11.3,14.0,63.7,11.6,260,3143,3403,Normal
+2011-12-20,Winter,2011,December,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.8,19.8,59.5,4.1,216,3534,3750,Normal
+2011-12-21,Spring,2011,December,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.6,21.4,85.8,14.8,107,2553,2660,Too Dry
+2011-12-22,Spring,2011,December,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.4,21.3,75.8,3.2,227,2841,3068,Too Dry
+2011-12-23,Spring,2011,December,Saturday,Working Day,Clear / Partly cloudy,15.3,18.9,68.6,18.4,163,2046,2209,Too Dry
+2011-12-24,Spring,2011,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,12.4,15.0,54.2,12.8,155,856,1011,Normal
+2011-12-25,Spring,2011,December,Monday,Weekend / Holiday,Clear / Partly cloudy,11.3,14.0,68.1,10.4,303,451,754,Too Dry
+2011-12-26,Spring,2011,December,Tuesday,Weekend / Holiday,Clear / Partly cloudy,13.2,15.8,50.7,16.0,430,887,1317,Normal
+2011-12-27,Spring,2011,December,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.3,16.4,76.2,12.6,103,1059,1162,Too Dry
+2011-12-28,Spring,2011,December,Thursday,Working Day,Clear / Partly cloudy,12.3,14.0,50.4,19.7,255,2047,2302,Normal
+2011-12-29,Spring,2011,December,Friday,Working Day,Clear / Partly cloudy,10.2,13.2,57.4,8.0,254,2169,2423,Normal
+2011-12-30,Spring,2011,December,Saturday,Working Day,Clear / Partly cloudy,12.8,15.9,63.7,9.0,491,2508,2999,Normal
+2011-12-31,Spring,2011,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,16.8,20.7,61.6,14.8,665,1820,2485,Normal
+2012-01-01,Spring,2012,January,Monday,Weekend / Holiday,Clear / Partly cloudy,15.2,18.8,69.2,12.9,686,1608,2294,Too Dry
+2012-01-02,Spring,2012,January,Tuesday,Weekend / Holiday,Clear / Partly cloudy,11.2,12.6,38.1,22.1,244,1707,1951,Too Humid
+2012-01-03,Spring,2012,January,Wednesday,Working Day,Clear / Partly cloudy,6.1,6.3,44.1,24.5,89,2147,2236,Too Humid
+2012-01-04,Spring,2012,January,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",4.4,6.0,41.5,12.4,95,2273,2368,Too Humid
+2012-01-05,Spring,2012,January,Friday,Working Day,Clear / Partly cloudy,10.9,13.9,52.4,8.7,140,3132,3272,Normal
+2012-01-06,Spring,2012,January,Saturday,Working Day,Clear / Partly cloudy,13.7,17.0,54.2,11.2,307,3791,4098,Normal
+2012-01-07,Spring,2012,January,Sunday,Weekend / Holiday,Clear / Partly cloudy,16.1,19.5,53.2,11.7,1070,3451,4521,Normal
+2012-01-08,Spring,2012,January,Monday,Weekend / Holiday,Clear / Partly cloudy,13.8,17.0,46.5,12.8,599,2826,3425,Normal
+2012-01-09,Spring,2012,January,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.2,12.4,70.2,6.6,106,2270,2376,Too Dry
+2012-01-10,Spring,2012,January,Wednesday,Working Day,Clear / Partly cloudy,12.7,15.9,64.7,12.6,173,3425,3598,Normal
+2012-01-11,Spring,2012,January,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",11.2,14.1,84.8,8.8,92,2085,2177,Too Dry
+2012-01-12,Spring,2012,January,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.7,19.1,80.3,12.1,269,3828,4097,Too Dry
+2012-01-13,Spring,2012,January,Saturday,Working Day,Clear / Partly cloudy,11.2,12.5,50.7,25.3,174,3040,3214,Normal
+2012-01-14,Spring,2012,January,Sunday,Weekend / Holiday,Clear / Partly cloudy,7.4,9.2,45.8,12.5,333,2160,2493,Normal
+2012-01-15,Spring,2012,January,Monday,Weekend / Holiday,Clear / Partly cloudy,6.8,8.1,41.9,16.8,284,2027,2311,Too Humid
+2012-01-16,Spring,2012,January,Tuesday,Weekend / Holiday,Clear / Partly cloudy,7.8,9.5,52.2,15.5,217,2081,2298,Normal
+2012-01-17,Spring,2012,January,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.3,18.2,71.6,23.4,127,2808,2935,Too Dry
+2012-01-18,Spring,2012,January,Thursday,Working Day,Clear / Partly cloudy,12.4,13.8,44.3,27.8,109,3267,3376,Too Humid
+2012-01-19,Spring,2012,January,Friday,Working Day,Clear / Partly cloudy,7.8,9.5,49.8,14.8,130,3162,3292,Normal
+2012-01-20,Spring,2012,January,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.9,11.0,45.0,13.6,115,3048,3163,Too Humid
+2012-01-21,Spring,2012,January,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",7.1,8.7,83.1,14.9,67,1234,1301,Too Dry
+2012-01-22,Spring,2012,January,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",6.7,8.1,79.6,13.4,196,1781,1977,Too Dry
+2012-01-23,Spring,2012,January,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.0,12.2,91.1,7.4,145,2287,2432,Too Dry
+2012-01-24,Spring,2012,January,Wednesday,Working Day,Clear / Partly cloudy,14.0,17.5,83.6,8.3,439,3900,4339,Too Dry
+2012-01-25,Spring,2012,January,Thursday,Working Day,Clear / Partly cloudy,12.1,14.7,64.4,10.8,467,3803,4270,Normal
+2012-01-26,Spring,2012,January,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.0,17.8,77.0,4.9,244,3831,4075,Too Dry
+2012-01-27,Spring,2012,January,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.4,20.8,74.1,23.0,269,3187,3456,Too Dry
+2012-01-28,Spring,2012,January,Sunday,Weekend / Holiday,Clear / Partly cloudy,12.9,16.3,54.3,14.1,775,3248,4023,Normal
+2012-01-29,Spring,2012,January,Monday,Weekend / Holiday,Clear / Partly cloudy,11.6,13.6,31.1,16.1,558,2685,3243,Too Humid
+2012-01-30,Spring,2012,January,Tuesday,Working Day,Clear / Partly cloudy,11.0,13.1,40.1,14.5,126,3498,3624,Too Humid
+2012-01-31,Spring,2012,January,Wednesday,Working Day,Clear / Partly cloudy,16.0,19.1,41.7,17.5,324,4185,4509,Too Humid
+2012-02-01,Spring,2012,February,Thursday,Working Day,Clear / Partly cloudy,19.2,23.3,50.8,12.7,304,4275,4579,Normal
+2012-02-02,Spring,2012,February,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.4,19.9,67.3,12.5,190,3571,3761,Too Dry
+2012-02-03,Spring,2012,February,Saturday,Working Day,Clear / Partly cloudy,12.8,15.5,52.7,12.0,310,3841,4151,Normal
+2012-02-04,Spring,2012,February,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.8,13.6,78.0,8.2,384,2448,2832,Too Dry
+2012-02-05,Spring,2012,February,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.9,13.2,68.8,11.8,318,2629,2947,Too Dry
+2012-02-06,Spring,2012,February,Tuesday,Working Day,Clear / Partly cloudy,11.6,14.8,62.2,10.3,206,3578,3784,Normal
+2012-02-07,Spring,2012,February,Wednesday,Working Day,Clear / Partly cloudy,14.5,18.1,49.6,9.9,199,4176,4375,Normal
+2012-02-08,Spring,2012,February,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.5,13.3,72.3,9.0,109,2693,2802,Too Dry
+2012-02-09,Spring,2012,February,Friday,Working Day,Clear / Partly cloudy,10.9,13.1,56.2,13.0,163,3667,3830,Normal
+2012-02-10,Spring,2012,February,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",11.5,14.7,54.0,7.8,227,3604,3831,Normal
+2012-02-11,Spring,2012,February,Sunday,Weekend / Holiday,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",9.2,10.5,73.1,19.4,192,1977,2169,Too Dry
+2012-02-12,Spring,2012,February,Monday,Weekend / Holiday,Clear / Partly cloudy,5.2,5.1,46.5,27.4,73,1456,1529,Normal
+2012-02-13,Spring,2012,February,Tuesday,Working Day,Clear / Partly cloudy,9.1,11.4,41.1,11.2,94,3328,3422,Too Humid
+2012-02-14,Spring,2012,February,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.1,16.7,50.9,9.5,135,3787,3922,Normal
+2012-02-15,Spring,2012,February,Thursday,Working Day,Clear / Partly cloudy,14.3,17.6,53.1,12.2,141,4028,4169,Normal
+2012-02-16,Spring,2012,February,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.0,16.5,75.3,6.1,74,2931,3005,Too Dry
+2012-02-17,Spring,2012,February,Saturday,Working Day,Clear / Partly cloudy,14.1,17.6,63.5,13.8,349,3805,4154,Normal
+2012-02-18,Spring,2012,February,Sunday,Weekend / Holiday,Clear / Partly cloudy,14.2,17.8,53.5,12.8,1435,2883,4318,Normal
+2012-02-19,Spring,2012,February,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",11.5,13.3,51.6,17.0,618,2071,2689,Normal
+2012-02-20,Spring,2012,February,Tuesday,Weekend / Holiday,Clear / Partly cloudy,11.5,13.7,50.8,15.3,502,2627,3129,Normal
+2012-02-21,Spring,2012,February,Wednesday,Working Day,Clear / Partly cloudy,11.8,14.8,59.4,13.8,163,3614,3777,Normal
+2012-02-22,Spring,2012,February,Thursday,Working Day,Clear / Partly cloudy,16.2,19.6,56.8,15.7,394,4379,4773,Normal
+2012-02-23,Spring,2012,February,Friday,Working Day,Clear / Partly cloudy,18.6,22.2,55.5,12.8,516,4546,5062,Normal
+2012-02-24,Spring,2012,February,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.7,20.5,73.8,15.9,246,3241,3487,Too Dry
+2012-02-25,Spring,2012,February,Sunday,Weekend / Holiday,Clear / Partly cloudy,11.9,12.8,39.6,28.3,317,2415,2732,Too Humid
+2012-02-26,Spring,2012,February,Monday,Weekend / Holiday,Clear / Partly cloudy,11.4,13.4,41.0,13.8,515,2874,3389,Too Humid
+2012-02-27,Spring,2012,February,Tuesday,Working Day,Clear / Partly cloudy,15.0,17.9,49.1,18.0,253,4069,4322,Normal
+2012-02-28,Spring,2012,February,Wednesday,Working Day,Clear / Partly cloudy,14.7,17.7,39.6,13.0,229,4134,4363,Too Humid
+2012-02-29,Spring,2012,February,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.1,17.4,80.5,12.0,65,1769,1834,Too Dry
+2012-03-01,Spring,2012,March,Friday,Working Day,Clear / Partly cloudy,19.9,23.8,61.5,15.2,325,4665,4990,Normal
+2012-03-02,Spring,2012,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.5,18.0,65.7,9.7,246,2948,3194,Too Dry
+2012-03-03,Spring,2012,March,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.0,20.7,62.1,10.8,956,3110,4066,Normal
+2012-03-04,Spring,2012,March,Monday,Weekend / Holiday,Clear / Partly cloudy,13.4,15.2,40.3,22.4,710,2713,3423,Too Humid
+2012-03-05,Spring,2012,March,Tuesday,Working Day,Clear / Partly cloudy,10.0,12.1,50.6,15.3,203,3130,3333,Normal
+2012-03-06,Spring,2012,March,Wednesday,Working Day,Clear / Partly cloudy,10.6,12.8,45.7,13.5,221,3735,3956,Normal
+2012-03-07,Spring,2012,March,Thursday,Working Day,Clear / Partly cloudy,16.6,19.3,51.3,23.2,432,4484,4916,Normal
+2012-03-08,Spring,2012,March,Friday,Working Day,Clear / Partly cloudy,21.6,26.2,56.8,29.6,486,4896,5382,Normal
+2012-03-09,Spring,2012,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.8,19.9,40.7,27.8,447,4122,4569,Too Humid
+2012-03-10,Spring,2012,March,Sunday,Weekend / Holiday,Clear / Partly cloudy,11.8,13.9,35.0,15.1,968,3150,4118,Too Humid
+2012-03-11,Spring,2012,March,Monday,Weekend / Holiday,Clear / Partly cloudy,14.8,18.0,47.7,14.9,1658,3253,4911,Normal
+2012-03-12,Spring,2012,March,Tuesday,Working Day,Clear / Partly cloudy,19.1,23.0,48.9,13.9,838,4460,5298,Normal
+2012-03-13,Spring,2012,March,Wednesday,Working Day,Clear / Partly cloudy,23.2,27.1,61.8,15.9,762,5085,5847,Normal
+2012-03-14,Spring,2012,March,Thursday,Working Day,Clear / Partly cloudy,23.5,27.4,50.7,7.7,997,5315,6312,Normal
+2012-03-15,Spring,2012,March,Friday,Working Day,Clear / Partly cloudy,22.9,26.6,58.0,10.0,1005,5187,6192,Normal
+2012-03-16,Spring,2012,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.9,21.8,84.2,7.6,548,3830,4378,Too Dry
+2012-03-17,Spring,2012,March,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.1,25.3,75.6,7.4,3155,4681,7836,Too Dry
+2012-03-18,Spring,2012,March,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.4,23.2,81.0,8.5,2207,3685,5892,Too Dry
+2012-03-19,Spring,2012,March,Tuesday,Working Day,Clear / Partly cloudy,22.3,26.6,72.9,10.9,982,5171,6153,Too Dry
+2012-03-20,Spring,2012,March,Wednesday,Working Day,Clear / Partly cloudy,23.0,26.9,80.8,8.1,1051,5042,6093,Too Dry
+2012-03-21,Summer,2012,March,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.8,25.7,82.1,6.0,1122,5108,6230,Too Dry
+2012-03-22,Summer,2012,March,Friday,Working Day,Clear / Partly cloudy,22.7,26.6,83.1,7.9,1334,5537,6871,Too Dry
+2012-03-23,Summer,2012,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.7,28.5,69.4,7.8,2469,5893,8362,Too Dry
+2012-03-24,Summer,2012,March,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",20.6,24.3,88.5,12.9,1033,2339,3372,Too Dry
+2012-03-25,Summer,2012,March,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.9,21.9,88.1,14.8,1532,3464,4996,Too Dry
+2012-03-26,Summer,2012,March,Tuesday,Working Day,Clear / Partly cloudy,18.3,21.9,47.8,25.9,795,4763,5558,Normal
+2012-03-27,Summer,2012,March,Wednesday,Working Day,Clear / Partly cloudy,13.3,15.8,29.0,12.5,531,4571,5102,Too Humid
+2012-03-28,Summer,2012,March,Thursday,Working Day,Clear / Partly cloudy,19.9,23.5,48.1,19.5,674,5024,5698,Normal
+2012-03-29,Summer,2012,March,Friday,Working Day,Clear / Partly cloudy,20.3,24.1,43.9,21.4,834,5299,6133,Too Humid
+2012-03-30,Summer,2012,March,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.2,18.8,58.1,9.3,796,4663,5459,Normal
+2012-03-31,Summer,2012,March,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.4,21.1,73.8,16.8,2301,3934,6235,Too Dry
+2012-04-01,Summer,2012,April,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.5,20.9,67.6,11.5,2347,3694,6041,Too Dry
+2012-04-02,Summer,2012,April,Tuesday,Working Day,Clear / Partly cloudy,17.8,21.4,50.4,20.9,1208,4728,5936,Normal
+2012-04-03,Summer,2012,April,Wednesday,Working Day,Clear / Partly cloudy,19.1,23.1,39.7,6.7,1348,5424,6772,Too Humid
+2012-04-04,Summer,2012,April,Thursday,Working Day,Clear / Partly cloudy,22.2,26.7,47.0,12.1,1058,5378,6436,Normal
+2012-04-05,Summer,2012,April,Friday,Working Day,Clear / Partly cloudy,17.8,21.6,37.4,14.7,1192,5265,6457,Too Humid
+2012-04-06,Summer,2012,April,Saturday,Working Day,Clear / Partly cloudy,16.5,19.5,37.7,20.1,1807,4653,6460,Too Humid
+2012-04-07,Summer,2012,April,Sunday,Weekend / Holiday,Clear / Partly cloudy,17.9,21.3,25.4,18.4,3252,3605,6857,Too Humid
+2012-04-08,Summer,2012,April,Monday,Weekend / Holiday,Clear / Partly cloudy,20.5,24.6,27.6,15.6,2230,2939,5169,Too Humid
+2012-04-09,Summer,2012,April,Tuesday,Working Day,Clear / Partly cloudy,20.1,23.8,31.8,24.0,905,4680,5585,Too Humid
+2012-04-10,Summer,2012,April,Wednesday,Working Day,Clear / Partly cloudy,18.3,21.8,43.5,16.7,819,5099,5918,Too Humid
+2012-04-11,Summer,2012,April,Thursday,Working Day,Clear / Partly cloudy,14.3,16.9,47.0,19.8,482,4380,4862,Normal
+2012-04-12,Summer,2012,April,Friday,Working Day,Clear / Partly cloudy,16.3,19.4,46.6,19.5,663,4746,5409,Normal
+2012-04-13,Summer,2012,April,Saturday,Working Day,Clear / Partly cloudy,18.1,21.6,40.8,10.4,1252,5146,6398,Too Humid
+2012-04-14,Summer,2012,April,Sunday,Weekend / Holiday,Clear / Partly cloudy,20.3,24.4,50.3,12.8,2795,4665,7460,Normal
+2012-04-15,Summer,2012,April,Monday,Weekend / Holiday,Clear / Partly cloudy,24.9,28.7,50.8,15.1,2846,4286,7132,Normal
+2012-04-16,Summer,2012,April,Tuesday,Weekend / Holiday,Clear / Partly cloudy,27.2,30.7,56.2,19.1,1198,5172,6370,Normal
+2012-04-17,Summer,2012,April,Wednesday,Working Day,Clear / Partly cloudy,24.9,29.9,39.0,18.3,989,5702,6691,Too Humid
+2012-04-18,Summer,2012,April,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.0,22.9,56.9,11.3,347,4020,4367,Normal
+2012-04-19,Summer,2012,April,Friday,Working Day,Clear / Partly cloudy,20.4,24.7,61.3,4.4,846,5719,6565,Normal
+2012-04-20,Summer,2012,April,Saturday,Working Day,Clear / Partly cloudy,21.6,25.8,69.5,10.0,1340,5950,7290,Too Dry
+2012-04-21,Summer,2012,April,Sunday,Weekend / Holiday,Clear / Partly cloudy,23.4,27.1,68.3,19.0,2541,4083,6624,Too Dry
+2012-04-22,Summer,2012,April,Monday,Weekend / Holiday,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",16.3,19.5,83.5,23.1,120,907,1027,Too Dry
+2012-04-23,Summer,2012,April,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.2,15.1,76.7,20.3,195,3019,3214,Too Dry
+2012-04-24,Summer,2012,April,Wednesday,Working Day,Clear / Partly cloudy,16.9,20.3,45.4,16.7,518,5115,5633,Normal
+2012-04-25,Summer,2012,April,Thursday,Working Day,Clear / Partly cloudy,19.5,23.5,42.8,8.0,655,5541,6196,Too Humid
+2012-04-26,Summer,2012,April,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",20.4,24.2,75.7,11.8,475,4551,5026,Too Dry
+2012-04-27,Summer,2012,April,Saturday,Working Day,Clear / Partly cloudy,18.8,22.6,40.1,23.3,1014,5219,6233,Too Humid
+2012-04-28,Summer,2012,April,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.4,18.9,49.0,8.7,1120,3100,4220,Normal
+2012-04-29,Summer,2012,April,Monday,Weekend / Holiday,Clear / Partly cloudy,18.8,22.5,58.7,7.8,2229,4075,6304,Normal
+2012-04-30,Summer,2012,April,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.0,22.9,57.0,11.5,665,4907,5572,Normal
+2012-05-01,Summer,2012,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.1,28.9,66.0,10.5,653,5087,5740,Too Dry
+2012-05-02,Summer,2012,May,Thursday,Working Day,Clear / Partly cloudy,23.1,26.9,79.7,9.2,667,5502,6169,Too Dry
+2012-05-03,Summer,2012,May,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.0,26.9,76.8,9.0,764,5657,6421,Too Dry
+2012-05-04,Summer,2012,May,Saturday,Working Day,Clear / Partly cloudy,25.7,29.5,73.5,10.9,1069,5227,6296,Too Dry
+2012-05-05,Summer,2012,May,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.5,29.2,75.7,10.3,2496,4387,6883,Too Dry
+2012-05-06,Summer,2012,May,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.1,27.3,74.0,10.0,2135,4224,6359,Too Dry
+2012-05-07,Summer,2012,May,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.0,26.4,66.4,15.5,1008,5265,6273,Too Dry
+2012-05-08,Summer,2012,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.8,27.9,68.6,19.8,738,4990,5728,Too Dry
+2012-05-09,Summer,2012,May,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.6,27.7,74.4,14.5,620,4097,4717,Too Dry
+2012-05-10,Summer,2012,May,Friday,Working Day,Clear / Partly cloudy,20.7,24.6,55.2,21.0,1026,5546,6572,Normal
+2012-05-11,Summer,2012,May,Saturday,Working Day,Clear / Partly cloudy,21.9,26.0,36.0,15.9,1319,5711,7030,Too Humid
+2012-05-12,Summer,2012,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,23.1,27.2,48.0,8.2,2622,4807,7429,Normal
+2012-05-13,Summer,2012,May,Monday,Weekend / Holiday,Clear / Partly cloudy,25.1,29.3,57.6,15.1,2172,3946,6118,Normal
+2012-05-14,Summer,2012,May,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.5,27.5,79.0,14.3,342,2501,2843,Too Dry
+2012-05-15,Summer,2012,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.1,28.8,79.5,9.9,625,4490,5115,Too Dry
+2012-05-16,Summer,2012,May,Thursday,Working Day,Clear / Partly cloudy,26.1,29.8,69.8,8.2,991,6433,7424,Too Dry
+2012-05-17,Summer,2012,May,Friday,Working Day,Clear / Partly cloudy,24.3,28.6,52.0,15.4,1242,6142,7384,Normal
+2012-05-18,Summer,2012,May,Saturday,Working Day,Clear / Partly cloudy,23.1,27.6,52.3,9.2,1521,6118,7639,Normal
+2012-05-19,Summer,2012,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,24.6,28.3,45.6,5.6,3410,4884,8294,Normal
+2012-05-20,Summer,2012,May,Monday,Weekend / Holiday,Clear / Partly cloudy,25.5,29.2,53.0,17.0,2704,4425,7129,Normal
+2012-05-21,Summer,2012,May,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",24.5,28.3,81.1,15.6,630,3729,4359,Too Dry
+2012-05-22,Summer,2012,May,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.2,29.0,76.6,7.9,819,5254,6073,Too Dry
+2012-05-23,Summer,2012,May,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.5,29.2,77.5,6.8,766,4494,5260,Too Dry
+2012-05-24,Summer,2012,May,Friday,Working Day,Clear / Partly cloudy,26.9,30.3,71.7,11.6,1059,5711,6770,Too Dry
+2012-05-25,Summer,2012,May,Saturday,Working Day,Clear / Partly cloudy,27.9,31.4,74.7,9.4,1417,5317,6734,Too Dry
+2012-05-26,Summer,2012,May,Sunday,Weekend / Holiday,Clear / Partly cloudy,28.4,32.1,73.2,13.3,2855,3681,6536,Too Dry
+2012-05-27,Summer,2012,May,Monday,Weekend / Holiday,Clear / Partly cloudy,28.3,32.1,69.7,14.4,3283,3308,6591,Too Dry
+2012-05-28,Summer,2012,May,Tuesday,Weekend / Holiday,Clear / Partly cloudy,29.2,34.0,67.6,13.2,2557,3486,6043,Too Dry
+2012-05-29,Summer,2012,May,Wednesday,Working Day,Clear / Partly cloudy,29.6,33.6,68.5,19.8,880,4863,5743,Too Dry
+2012-05-30,Summer,2012,May,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.9,30.6,67.0,9.0,745,6110,6855,Too Dry
+2012-05-31,Summer,2012,May,Friday,Working Day,Clear / Partly cloudy,27.9,31.6,49.3,13.1,1100,6238,7338,Normal
+2012-06-01,Summer,2012,June,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.8,30.4,75.5,15.9,533,3594,4127,Too Dry
+2012-06-02,Summer,2012,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,23.9,28.3,54.9,12.5,2795,5325,8120,Normal
+2012-06-03,Summer,2012,June,Monday,Weekend / Holiday,Clear / Partly cloudy,24.7,28.8,49.3,12.3,2494,5147,7641,Normal
+2012-06-04,Summer,2012,June,Tuesday,Working Day,Clear / Partly cloudy,24.5,28.9,48.7,19.1,1071,5927,6998,Normal
+2012-06-05,Summer,2012,June,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.2,26.3,61.3,14.0,968,6033,7001,Normal
+2012-06-06,Summer,2012,June,Thursday,Working Day,Clear / Partly cloudy,22.7,27.1,61.1,5.2,1027,6028,7055,Normal
+2012-06-07,Summer,2012,June,Friday,Working Day,Clear / Partly cloudy,24.7,28.5,56.7,10.5,1038,6456,7494,Normal
+2012-06-08,Summer,2012,June,Saturday,Working Day,Clear / Partly cloudy,26.6,29.9,46.8,11.8,1488,6248,7736,Normal
+2012-06-09,Summer,2012,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,29.1,32.4,43.7,9.7,2708,4790,7498,Too Humid
+2012-06-10,Summer,2012,June,Monday,Weekend / Holiday,Clear / Partly cloudy,29.8,33.2,53.8,9.0,2224,4374,6598,Normal
+2012-06-11,Summer,2012,June,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.6,33.0,58.8,13.9,1017,5647,6664,Normal
+2012-06-12,Summer,2012,June,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.8,29.9,83.3,14.4,477,4495,4972,Too Dry
+2012-06-13,Summer,2012,June,Thursday,Working Day,Clear / Partly cloudy,26.9,30.6,58.2,23.0,1173,6248,7421,Normal
+2012-06-14,Summer,2012,June,Friday,Working Day,Clear / Partly cloudy,26.6,31.2,57.0,17.0,1180,6183,7363,Normal
+2012-06-15,Summer,2012,June,Saturday,Working Day,Clear / Partly cloudy,26.2,30.0,59.0,11.8,1563,6102,7665,Normal
+2012-06-16,Summer,2012,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,25.9,29.7,50.4,11.2,2963,4739,7702,Normal
+2012-06-17,Summer,2012,June,Monday,Weekend / Holiday,Clear / Partly cloudy,24.3,28.6,59.9,9.7,2634,4344,6978,Normal
+2012-06-18,Summer,2012,June,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.3,27.2,77.8,11.7,653,4446,5099,Too Dry
+2012-06-19,Summer,2012,June,Wednesday,Working Day,Clear / Partly cloudy,28.2,32.7,69.0,9.9,968,5857,6825,Too Dry
+2012-06-20,Summer,2012,June,Thursday,Working Day,Clear / Partly cloudy,32.1,36.0,59.2,7.6,872,5339,6211,Normal
+2012-06-21,Fall,2012,June,Friday,Working Day,Clear / Partly cloudy,33.0,37.6,56.8,8.0,778,5127,5905,Normal
+2012-06-22,Fall,2012,June,Saturday,Working Day,Clear / Partly cloudy,31.9,36.2,57.4,12.3,964,4859,5823,Normal
+2012-06-23,Fall,2012,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,30.0,32.6,53.5,12.0,2657,4801,7458,Normal
+2012-06-24,Fall,2012,June,Monday,Weekend / Holiday,Clear / Partly cloudy,30.5,33.7,47.9,9.8,2551,4340,6891,Normal
+2012-06-25,Fall,2012,June,Tuesday,Working Day,Clear / Partly cloudy,29.3,32.7,50.4,20.1,1139,5640,6779,Normal
+2012-06-26,Fall,2012,June,Wednesday,Working Day,Clear / Partly cloudy,25.9,29.7,37.3,23.3,1077,6365,7442,Too Humid
+2012-06-27,Fall,2012,June,Thursday,Working Day,Clear / Partly cloudy,28.6,32.0,36.0,18.2,1077,6258,7335,Too Humid
+2012-06-28,Fall,2012,June,Friday,Working Day,Clear / Partly cloudy,30.7,33.8,42.2,11.5,921,5958,6879,Too Humid
+2012-06-29,Fall,2012,June,Saturday,Working Day,Clear / Partly cloudy,34.2,39.3,48.9,11.1,829,4634,5463,Normal
+2012-06-30,Fall,2012,June,Sunday,Weekend / Holiday,Clear / Partly cloudy,31.4,34.4,60.1,10.8,1455,4232,5687,Normal
+2012-07-01,Fall,2012,July,Monday,Weekend / Holiday,Clear / Partly cloudy,33.4,37.5,51.9,11.3,1421,4110,5531,Normal
+2012-07-02,Fall,2012,July,Tuesday,Working Day,Clear / Partly cloudy,32.0,35.1,44.7,13.1,904,5323,6227,Too Humid
+2012-07-03,Fall,2012,July,Wednesday,Working Day,Clear / Partly cloudy,32.0,35.1,49.2,8.5,1052,5608,6660,Normal
+2012-07-04,Fall,2012,July,Thursday,Weekend / Holiday,Clear / Partly cloudy,32.4,36.6,53.9,9.0,2562,4841,7403,Normal
+2012-07-05,Fall,2012,July,Friday,Working Day,Clear / Partly cloudy,33.9,38.1,45.8,13.0,1405,4836,6241,Normal
+2012-07-06,Fall,2012,July,Saturday,Working Day,Clear / Partly cloudy,34.0,37.6,45.1,9.8,1366,4841,6207,Normal
+2012-07-07,Fall,2012,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,35.3,40.2,49.2,11.0,1448,3392,4840,Normal
+2012-07-08,Fall,2012,July,Monday,Weekend / Holiday,Clear / Partly cloudy,33.7,39.5,57.4,8.4,1203,3469,4672,Normal
+2012-07-09,Fall,2012,July,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.1,32.7,68.3,12.1,998,5571,6569,Too Dry
+2012-07-10,Fall,2012,July,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.6,33.2,66.8,10.2,954,5336,6290,Too Dry
+2012-07-11,Fall,2012,July,Thursday,Working Day,Clear / Partly cloudy,29.4,32.5,63.3,10.2,975,6289,7264,Normal
+2012-07-12,Fall,2012,July,Friday,Working Day,Clear / Partly cloudy,29.3,32.7,53.0,9.8,1032,6414,7446,Normal
+2012-07-13,Fall,2012,July,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.0,33.4,48.6,5.4,1511,5988,7499,Normal
+2012-07-14,Fall,2012,July,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.8,33.3,69.9,9.6,2355,4614,6969,Too Dry
+2012-07-15,Fall,2012,July,Monday,Weekend / Holiday,Clear / Partly cloudy,30.6,35.3,71.8,11.2,1920,4111,6031,Too Dry
+2012-07-16,Fall,2012,July,Tuesday,Working Day,Clear / Partly cloudy,31.3,36.2,64.5,11.0,1088,5742,6830,Normal
+2012-07-17,Fall,2012,July,Wednesday,Working Day,Clear / Partly cloudy,33.6,37.8,50.6,7.7,921,5865,6786,Normal
+2012-07-18,Fall,2012,July,Thursday,Working Day,Clear / Partly cloudy,32.5,37.3,57.7,9.2,799,4914,5713,Normal
+2012-07-19,Fall,2012,July,Friday,Working Day,Clear / Partly cloudy,31.6,35.7,60.0,11.1,888,5703,6591,Normal
+2012-07-20,Fall,2012,July,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.3,30.7,84.4,14.0,747,5123,5870,Too Dry
+2012-07-21,Fall,2012,July,Sunday,Weekend / Holiday,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",24.4,27.5,86.5,14.3,1264,3195,4459,Too Dry
+2012-07-22,Fall,2012,July,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.4,31.2,76.2,6.3,2544,4866,7410,Too Dry
+2012-07-23,Fall,2012,July,Tuesday,Working Day,Clear / Partly cloudy,30.4,34.5,69.4,9.3,1135,5831,6966,Too Dry
+2012-07-24,Fall,2012,July,Wednesday,Working Day,Clear / Partly cloudy,30.8,35.3,65.5,14.2,1140,6452,7592,Too Dry
+2012-07-25,Fall,2012,July,Thursday,Working Day,Clear / Partly cloudy,29.7,32.7,45.0,11.0,1383,6790,8173,Too Humid
+2012-07-26,Fall,2012,July,Friday,Working Day,Clear / Partly cloudy,31.8,37.0,59.7,19.1,1036,5825,6861,Normal
+2012-07-27,Fall,2012,July,Saturday,Working Day,Clear / Partly cloudy,32.0,36.7,59.5,10.3,1259,5645,6904,Normal
+2012-07-28,Fall,2012,July,Sunday,Weekend / Holiday,Clear / Partly cloudy,31.0,34.9,61.3,10.5,2234,4451,6685,Normal
+2012-07-29,Fall,2012,July,Monday,Weekend / Holiday,Clear / Partly cloudy,29.6,33.4,62.4,11.4,2153,4444,6597,Normal
+2012-07-30,Fall,2012,July,Tuesday,Working Day,Clear / Partly cloudy,30.0,34.2,66.9,10.3,1040,6065,7105,Too Dry
+2012-07-31,Fall,2012,July,Wednesday,Working Day,Clear / Partly cloudy,29.2,33.1,70.4,11.1,968,6248,7216,Too Dry
+2012-08-01,Fall,2012,August,Thursday,Working Day,Clear / Partly cloudy,29.4,33.4,67.8,9.5,1074,6506,7580,Too Dry
+2012-08-02,Fall,2012,August,Friday,Working Day,Clear / Partly cloudy,30.9,35.4,66.0,8.7,983,6278,7261,Too Dry
+2012-08-03,Fall,2012,August,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",31.4,36.1,64.2,14.5,1328,5847,7175,Normal
+2012-08-04,Fall,2012,August,Sunday,Weekend / Holiday,Clear / Partly cloudy,32.5,37.6,61.3,17.2,2345,4479,6824,Normal
+2012-08-05,Fall,2012,August,Monday,Weekend / Holiday,Clear / Partly cloudy,31.5,36.6,65.2,19.5,1707,3757,5464,Too Dry
+2012-08-06,Fall,2012,August,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.9,35.5,65.4,8.7,1233,5780,7013,Too Dry
+2012-08-07,Fall,2012,August,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.2,34.9,70.4,7.8,1278,5995,7273,Too Dry
+2012-08-08,Fall,2012,August,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.8,35.4,67.3,7.4,1263,6271,7534,Too Dry
+2012-08-09,Fall,2012,August,Friday,Working Day,Clear / Partly cloudy,31.0,35.0,62.0,10.5,1196,6090,7286,Normal
+2012-08-10,Fall,2012,August,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",29.3,33.4,71.6,16.0,1065,4721,5786,Too Dry
+2012-08-11,Fall,2012,August,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.4,31.9,73.3,13.8,2247,4052,6299,Too Dry
+2012-08-12,Fall,2012,August,Monday,Weekend / Holiday,Clear / Partly cloudy,28.7,32.2,53.0,8.2,2182,4362,6544,Normal
+2012-08-13,Fall,2012,August,Tuesday,Working Day,Clear / Partly cloudy,29.6,33.1,54.5,9.1,1207,5676,6883,Normal
+2012-08-14,Fall,2012,August,Wednesday,Working Day,Clear / Partly cloudy,29.8,33.8,68.7,11.3,1128,5656,6784,Too Dry
+2012-08-15,Fall,2012,August,Thursday,Working Day,Clear / Partly cloudy,29.0,32.7,62.0,11.4,1198,6149,7347,Normal
+2012-08-16,Fall,2012,August,Friday,Working Day,Clear / Partly cloudy,29.5,32.7,51.9,9.5,1338,6267,7605,Normal
+2012-08-17,Fall,2012,August,Saturday,Working Day,Clear / Partly cloudy,29.7,12.1,57.1,15.5,1483,5665,7148,Normal
+2012-08-18,Fall,2012,August,Sunday,Weekend / Holiday,Clear / Partly cloudy,27.8,30.9,60.3,11.9,2827,5038,7865,Normal
+2012-08-19,Fall,2012,August,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.1,30.2,71.2,5.8,1208,3341,4549,Too Dry
+2012-08-20,Fall,2012,August,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.1,29.8,73.4,8.7,1026,5504,6530,Too Dry
+2012-08-21,Fall,2012,August,Wednesday,Working Day,Clear / Partly cloudy,26.6,30.1,67.4,4.9,1081,5925,7006,Too Dry
+2012-08-22,Fall,2012,August,Thursday,Working Day,Clear / Partly cloudy,27.4,31.1,67.7,4.7,1094,6281,7375,Too Dry
+2012-08-23,Fall,2012,August,Friday,Working Day,Clear / Partly cloudy,28.5,31.9,63.6,5.7,1363,6402,7765,Normal
+2012-08-24,Fall,2012,August,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.8,32.4,61.5,4.8,1325,6257,7582,Normal
+2012-08-25,Fall,2012,August,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.1,30.9,71.3,16.4,1829,4224,6053,Too Dry
+2012-08-26,Fall,2012,August,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.8,29.8,84.6,15.3,1483,3772,5255,Too Dry
+2012-08-27,Fall,2012,August,Tuesday,Working Day,Clear / Partly cloudy,28.8,32.7,73.0,8.6,989,5928,6917,Too Dry
+2012-08-28,Fall,2012,August,Wednesday,Working Day,Clear / Partly cloudy,29.9,33.3,62.0,12.8,935,6105,7040,Normal
+2012-08-29,Fall,2012,August,Thursday,Working Day,Clear / Partly cloudy,28.1,31.8,55.2,7.5,1177,6520,7697,Normal
+2012-08-30,Fall,2012,August,Friday,Working Day,Clear / Partly cloudy,29.0,32.6,59.0,5.2,1172,6541,7713,Normal
+2012-08-31,Fall,2012,August,Saturday,Working Day,Clear / Partly cloudy,31.3,34.5,58.8,11.3,1433,5917,7350,Normal
+2012-09-01,Fall,2012,September,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",30.9,35.1,63.8,7.6,2352,3788,6140,Normal
+2012-09-02,Fall,2012,September,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.6,32.4,81.5,4.3,2613,3197,5810,Too Dry
+2012-09-03,Fall,2012,September,Tuesday,Weekend / Holiday,Clear / Partly cloudy,29.0,33.1,79.1,10.1,1965,4069,6034,Too Dry
+2012-09-04,Fall,2012,September,Wednesday,Working Day,Clear / Partly cloudy,29.8,34.3,75.5,15.8,867,5997,6864,Too Dry
+2012-09-05,Fall,2012,September,Thursday,Working Day,Clear / Partly cloudy,30.2,35.4,74.1,12.6,832,6280,7112,Too Dry
+2012-09-06,Fall,2012,September,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",28.6,32.8,81.0,9.5,611,5592,6203,Too Dry
+2012-09-07,Fall,2012,September,Saturday,Working Day,Clear / Partly cloudy,28.8,32.9,73.6,11.5,1045,6459,7504,Too Dry
+2012-09-08,Fall,2012,September,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.0,30.6,79.9,18.8,1557,4419,5976,Too Dry
+2012-09-09,Fall,2012,September,Monday,Weekend / Holiday,Clear / Partly cloudy,25.0,28.9,54.8,15.0,2570,5657,8227,Normal
+2012-09-10,Fall,2012,September,Tuesday,Working Day,Clear / Partly cloudy,23.9,28.3,50.4,17.3,1118,6407,7525,Normal
+2012-09-11,Fall,2012,September,Wednesday,Working Day,Clear / Partly cloudy,23.7,27.7,52.0,6.2,1070,6697,7767,Normal
+2012-09-12,Fall,2012,September,Thursday,Working Day,Clear / Partly cloudy,24.6,28.5,57.7,8.8,1050,6820,7870,Normal
+2012-09-13,Fall,2012,September,Friday,Working Day,Clear / Partly cloudy,25.1,29.0,63.7,5.5,1054,6750,7804,Normal
+2012-09-14,Fall,2012,September,Saturday,Working Day,Clear / Partly cloudy,26.0,29.7,67.2,7.0,1379,6630,8009,Too Dry
+2012-09-15,Fall,2012,September,Sunday,Weekend / Holiday,Clear / Partly cloudy,24.9,29.3,50.2,16.6,3160,5554,8714,Normal
+2012-09-16,Fall,2012,September,Monday,Weekend / Holiday,Clear / Partly cloudy,23.8,28.2,57.0,6.0,2166,5167,7333,Normal
+2012-09-17,Fall,2012,September,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.8,27.7,73.5,10.2,1022,5847,6869,Too Dry
+2012-09-18,Fall,2012,September,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.6,28.3,87.2,24.0,371,3702,4073,Too Dry
+2012-09-19,Fall,2012,September,Thursday,Working Day,Clear / Partly cloudy,22.7,27.0,53.7,14.4,788,6803,7591,Normal
+2012-09-20,Fall,2012,September,Friday,Working Day,Clear / Partly cloudy,22.4,26.6,61.8,7.9,939,6781,7720,Normal
+2012-09-21,Fall,2012,September,Saturday,Working Day,Clear / Partly cloudy,24.6,28.6,66.9,10.3,1250,6917,8167,Too Dry
+2012-09-22,Fall,2012,September,Sunday,Weekend / Holiday,Clear / Partly cloudy,26.6,30.5,64.7,19.0,2512,5883,8395,Normal
+2012-09-23,Winter,2012,September,Monday,Weekend / Holiday,Clear / Partly cloudy,21.7,25.9,46.7,15.0,2454,5453,7907,Normal
+2012-09-24,Winter,2012,September,Tuesday,Working Day,Clear / Partly cloudy,21.1,25.1,49.3,9.5,1001,6435,7436,Normal
+2012-09-25,Winter,2012,September,Wednesday,Working Day,Clear / Partly cloudy,22.6,27.2,57.0,15.8,845,6693,7538,Normal
+2012-09-26,Winter,2012,September,Thursday,Working Day,Clear / Partly cloudy,26.0,29.8,63.1,16.4,787,6946,7733,Normal
+2012-09-27,Winter,2012,September,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",26.6,30.4,69.1,9.0,751,6642,7393,Too Dry
+2012-09-28,Winter,2012,September,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",25.4,29.3,69.0,11.0,1045,6370,7415,Too Dry
+2012-09-29,Winter,2012,September,Sunday,Weekend / Holiday,Clear / Partly cloudy,22.2,26.5,54.3,15.2,2589,5966,8555,Normal
+2012-09-30,Winter,2012,September,Monday,Weekend / Holiday,Clear / Partly cloudy,21.6,25.9,58.3,9.0,2015,4874,6889,Normal
+2012-10-01,Winter,2012,October,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.4,25.6,64.9,6.1,763,6015,6778,Normal
+2012-10-02,Winter,2012,October,Wednesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",24.2,27.1,87.2,7.0,315,4324,4639,Too Dry
+2012-10-03,Winter,2012,October,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.0,30.0,79.4,4.5,728,6844,7572,Too Dry
+2012-10-04,Winter,2012,October,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",27.0,30.4,72.3,7.9,891,6437,7328,Too Dry
+2012-10-05,Winter,2012,October,Saturday,Working Day,Clear / Partly cloudy,25.2,29.0,62.7,7.1,1516,6640,8156,Normal
+2012-10-06,Winter,2012,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,22.7,26.9,66.4,18.0,3031,4934,7965,Too Dry
+2012-10-07,Winter,2012,October,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.0,21.0,70.8,9.5,781,2729,3510,Too Dry
+2012-10-08,Winter,2012,October,Tuesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.7,19.4,71.0,12.7,874,4604,5478,Too Dry
+2012-10-09,Winter,2012,October,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",18.3,21.9,76.2,12.8,601,5791,6392,Too Dry
+2012-10-10,Winter,2012,October,Thursday,Working Day,Clear / Partly cloudy,21.1,25.2,63.1,12.6,780,6911,7691,Normal
+2012-10-11,Winter,2012,October,Friday,Working Day,Clear / Partly cloudy,17.8,21.6,46.3,12.2,834,6736,7570,Normal
+2012-10-12,Winter,2012,October,Saturday,Working Day,Clear / Partly cloudy,17.9,21.7,53.9,15.8,1060,6222,7282,Normal
+2012-10-13,Winter,2012,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,16.1,19.6,49.5,9.8,2252,4857,7109,Normal
+2012-10-14,Winter,2012,October,Monday,Weekend / Holiday,Clear / Partly cloudy,21.4,25.4,64.0,18.7,2080,4559,6639,Normal
+2012-10-15,Winter,2012,October,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.0,27.0,70.8,19.8,760,5115,5875,Too Dry
+2012-10-16,Winter,2012,October,Wednesday,Working Day,Clear / Partly cloudy,19.2,23.0,55.8,12.2,922,6612,7534,Normal
+2012-10-17,Winter,2012,October,Thursday,Working Day,Clear / Partly cloudy,18.7,22.5,69.3,6.8,979,6482,7461,Too Dry
+2012-10-18,Winter,2012,October,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.4,25.6,72.8,15.9,1008,6501,7509,Too Dry
+2012-10-19,Winter,2012,October,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",23.1,26.9,81.5,9.0,753,4671,5424,Too Dry
+2012-10-20,Winter,2012,October,Sunday,Weekend / Holiday,Clear / Partly cloudy,19.9,23.6,57.3,7.9,2806,5284,8090,Normal
+2012-10-21,Winter,2012,October,Monday,Weekend / Holiday,Clear / Partly cloudy,19.0,22.8,51.0,11.1,2132,4692,6824,Normal
+2012-10-22,Winter,2012,October,Tuesday,Working Day,Clear / Partly cloudy,20.0,24.1,56.8,5.5,830,6228,7058,Normal
+2012-10-23,Winter,2012,October,Wednesday,Working Day,Clear / Partly cloudy,22.3,26.5,64.2,6.3,841,6625,7466,Normal
+2012-10-24,Winter,2012,October,Thursday,Working Day,Clear / Partly cloudy,24.1,27.9,63.6,4.9,795,6898,7693,Normal
+2012-10-25,Winter,2012,October,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.6,26.5,80.0,8.3,875,6484,7359,Too Dry
+2012-10-26,Winter,2012,October,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",22.4,26.1,80.7,8.9,1182,6262,7444,Too Dry
+2012-10-27,Winter,2012,October,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",21.7,25.8,72.0,15.8,2643,5209,7852,Too Dry
+2012-10-28,Winter,2012,October,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",19.6,23.4,69.5,26.7,998,3461,4459,Too Dry
+2012-10-29,Winter,2012,October,Tuesday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",18.0,22.0,88.0,24.0,2,20,22,Too Dry
+2012-10-30,Winter,2012,October,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.0,15.5,82.5,14.3,87,1009,1096,Too Dry
+2012-10-31,Winter,2012,October,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.7,18.1,66.7,11.2,419,5147,5566,Too Dry
+2012-11-01,Winter,2012,November,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.0,18.5,58.2,10.5,466,5520,5986,Normal
+2012-11-02,Winter,2012,November,Saturday,Working Day,Clear / Partly cloudy,14.6,17.8,52.2,17.8,618,5229,5847,Normal
+2012-11-03,Winter,2012,November,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.1,16.2,49.1,18.1,1029,4109,5138,Normal
+2012-11-04,Winter,2012,November,Monday,Weekend / Holiday,Clear / Partly cloudy,13.4,16.5,53.3,12.0,1201,3906,5107,Normal
+2012-11-05,Winter,2012,November,Tuesday,Working Day,Clear / Partly cloudy,13.1,15.4,49.4,15.8,378,4881,5259,Normal
+2012-11-06,Winter,2012,November,Wednesday,Working Day,Clear / Partly cloudy,11.5,14.1,56.7,11.6,466,5220,5686,Normal
+2012-11-07,Winter,2012,November,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.1,13.7,54.8,20.4,326,4709,5035,Normal
+2012-11-08,Winter,2012,November,Friday,Working Day,Clear / Partly cloudy,14.4,17.1,33.3,23.3,340,4975,5315,Too Humid
+2012-11-09,Winter,2012,November,Saturday,Working Day,Clear / Partly cloudy,14.8,17.8,54.1,14.4,709,5283,5992,Normal
+2012-11-10,Winter,2012,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,16.0,19.7,64.5,3.9,2090,4446,6536,Normal
+2012-11-11,Winter,2012,November,Monday,Weekend / Holiday,Clear / Partly cloudy,17.3,21.1,65.9,8.5,2290,4562,6852,Too Dry
+2012-11-12,Winter,2012,November,Tuesday,Weekend / Holiday,Clear / Partly cloudy,19.9,23.8,74.2,11.6,1097,5172,6269,Too Dry
+2012-11-13,Winter,2012,November,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.1,16.2,66.3,22.9,327,3767,4094,Too Dry
+2012-11-14,Winter,2012,November,Thursday,Working Day,Clear / Partly cloudy,11.9,14.1,55.2,13.4,373,5122,5495,Normal
+2012-11-15,Winter,2012,November,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.2,16.2,62.0,10.3,320,5125,5445,Normal
+2012-11-16,Winter,2012,November,Saturday,Working Day,Clear / Partly cloudy,14.1,17.4,52.5,11.5,484,5214,5698,Normal
+2012-11-17,Winter,2012,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,13.3,16.3,54.5,12.0,1313,4316,5629,Normal
+2012-11-18,Winter,2012,November,Monday,Weekend / Holiday,Clear / Partly cloudy,14.0,16.9,69.3,15.3,922,3747,4669,Too Dry
+2012-11-19,Winter,2012,November,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.6,18.8,62.3,15.7,449,5050,5499,Normal
+2012-11-20,Winter,2012,November,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.3,19.0,68.5,5.5,534,5100,5634,Too Dry
+2012-11-21,Winter,2012,November,Thursday,Working Day,Clear / Partly cloudy,14.5,18.2,61.4,6.9,615,4531,5146,Normal
+2012-11-22,Winter,2012,November,Friday,Weekend / Holiday,Clear / Partly cloudy,13.9,17.5,58.0,3.5,955,1470,2425,Normal
+2012-11-23,Winter,2012,November,Saturday,Working Day,Clear / Partly cloudy,15.1,18.9,56.9,9.9,1603,2307,3910,Normal
+2012-11-24,Winter,2012,November,Sunday,Weekend / Holiday,Clear / Partly cloudy,11.4,12.4,40.5,25.3,532,1745,2277,Too Humid
+2012-11-25,Winter,2012,November,Monday,Weekend / Holiday,Clear / Partly cloudy,10.1,12.9,46.8,10.1,309,2115,2424,Normal
+2012-11-26,Winter,2012,November,Tuesday,Working Day,Clear / Partly cloudy,12.8,17.0,53.5,3.1,337,4750,5087,Normal
+2012-11-27,Winter,2012,November,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.0,14.1,78.7,15.9,123,3836,3959,Too Dry
+2012-11-28,Winter,2012,November,Thursday,Working Day,Clear / Partly cloudy,12.2,14.5,50.6,14.1,198,5062,5260,Normal
+2012-11-29,Winter,2012,November,Friday,Working Day,Clear / Partly cloudy,11.5,14.9,55.6,7.7,243,5080,5323,Normal
+2012-11-30,Winter,2012,November,Saturday,Working Day,Clear / Partly cloudy,12.2,16.2,65.0,3.9,362,5306,5668,Normal
+2012-12-01,Winter,2012,December,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.2,15.8,80.7,4.0,951,4240,5191,Too Dry
+2012-12-02,Winter,2012,December,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.2,18.0,82.3,8.3,892,3757,4649,Too Dry
+2012-12-03,Winter,2012,December,Tuesday,Working Day,Clear / Partly cloudy,18.6,22.8,76.8,5.5,555,5679,6234,Too Dry
+2012-12-04,Winter,2012,December,Wednesday,Working Day,Clear / Partly cloudy,19.5,23.5,73.4,11.7,551,6055,6606,Too Dry
+2012-12-05,Winter,2012,December,Thursday,Working Day,Clear / Partly cloudy,18.0,21.4,48.5,21.7,331,5398,5729,Normal
+2012-12-06,Winter,2012,December,Friday,Working Day,Clear / Partly cloudy,10.5,12.9,50.9,11.7,340,5035,5375,Normal
+2012-12-07,Winter,2012,December,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.2,16.1,76.4,8.8,349,4659,5008,Too Dry
+2012-12-08,Winter,2012,December,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.6,19.5,91.1,6.8,1153,4429,5582,Too Dry
+2012-12-09,Winter,2012,December,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",15.8,19.5,90.5,10.6,441,2787,3228,Too Dry
+2012-12-10,Winter,2012,December,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",17.9,21.8,92.5,12.8,329,4841,5170,Too Dry
+2012-12-11,Winter,2012,December,Wednesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.5,16.9,59.7,19.8,282,5219,5501,Normal
+2012-12-12,Winter,2012,December,Thursday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",12.2,14.9,53.8,10.9,310,5009,5319,Normal
+2012-12-13,Winter,2012,December,Friday,Working Day,Clear / Partly cloudy,12.1,14.7,48.6,11.7,425,5107,5532,Normal
+2012-12-14,Winter,2012,December,Saturday,Working Day,Clear / Partly cloudy,11.5,14.7,64.3,8.8,429,5182,5611,Normal
+2012-12-15,Winter,2012,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,13.3,16.9,65.0,7.1,767,4280,5047,Normal
+2012-12-16,Winter,2012,December,Monday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",14.9,18.5,83.9,6.7,538,3248,3786,Too Dry
+2012-12-17,Winter,2012,December,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",16.1,20.1,90.7,6.6,212,4373,4585,Too Dry
+2012-12-18,Winter,2012,December,Wednesday,Working Day,Clear / Partly cloudy,16.8,20.5,66.6,14.8,433,5124,5557,Too Dry
+2012-12-19,Winter,2012,December,Thursday,Working Day,Clear / Partly cloudy,13.6,17.1,62.5,12.3,333,4934,5267,Normal
+2012-12-20,Winter,2012,December,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.5,16.8,66.8,8.9,314,3814,4128,Too Dry
+2012-12-21,Spring,2012,December,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",13.4,15.1,55.7,25.1,221,3402,3623,Normal
+2012-12-22,Spring,2012,December,Sunday,Weekend / Holiday,Clear / Partly cloudy,10.9,11.8,44.1,27.3,205,1544,1749,Too Humid
+2012-12-23,Spring,2012,December,Monday,Weekend / Holiday,Clear / Partly cloudy,10.1,13.0,51.5,8.9,408,1379,1787,Normal
+2012-12-24,Spring,2012,December,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",9.5,12.9,79.1,5.2,174,746,920,Too Dry
+2012-12-25,Spring,2012,December,Wednesday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",11.9,14.7,73.5,11.3,440,573,1013,Too Dry
+2012-12-26,Spring,2012,December,Thursday,Working Day,"Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds",10.0,11.0,82.3,21.2,9,432,441,Too Dry
+2012-12-27,Spring,2012,December,Friday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.4,11.3,65.3,23.5,247,1867,2114,Too Dry
+2012-12-28,Spring,2012,December,Saturday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.4,12.8,59.0,10.4,644,2451,3095,Normal
+2012-12-29,Spring,2012,December,Sunday,Weekend / Holiday,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",10.4,12.1,75.3,8.3,159,1182,1341,Too Dry
+2012-12-30,Spring,2012,December,Monday,Weekend / Holiday,Clear / Partly cloudy,10.5,11.6,48.3,23.5,364,1432,1796,Normal
+2012-12-31,Spring,2012,December,Tuesday,Working Day,"Misty + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist",8.8,11.2,57.8,10.4,439,2290,2729,Normal
