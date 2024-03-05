@@ -78,3 +78,5 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
+
+**StreamLit**![image](https://github.com/JamesVSeVERYBODY/Submission/assets/88029424/943344c9-e4ec-4c02-8764-40834c9639e7)
