@@ -1,10 +1,10 @@
-# Dicoding - Learning Data Analysis with Python
+# Dicoding - Data Analysis
 **Streamlit Preview :**
 
 ![image](https://github.com/JamesVSeVERYBODY/Submission/assets/88029424/fffd2ab6-1f45-419e-9bcb-5348183bd170)
 
 #Project Description
-Proyek ini dibuat dengan menganalisis data dari suatu dataset (bike_sharing dataset), setelah itu melakukan proses analisis data mulai dari data gathering, data assesing, hingga data cleaning. Setelah data telah siap dipakai, saya menggunakan exploratory analysis dan juga explanatory analysis. Seluruh proses analisis data ini ada pada repository GitHub.
+This project is created by analyzing data from a dataset (bike_sharing dataset), then conducting the process of data gathering, data assessing, and data cleaning. Once the data is ready for use, I perform exploratory analysis and explanatory analysis. The entire data analysis process is available on a GitHub repository.
 
 **About Dataset**
 
